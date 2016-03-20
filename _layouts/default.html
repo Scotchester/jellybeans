@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta charset="utf-8">
+        <title>
+        {% if page.title == null %}
+            {{ site.name }}
+        {% else %}
+            {{ page.title }} – {{ site.name }}
+        {% endif %}
+        </title>
+        <meta name="viewport" content="width=device-width">
+
+        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/normalize.css">
+        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/syntax.css">
+    </head>
+
+    <body>
+        <div class="container">
+            <header class="site-header" role="banner">
+                <div class="wrap">
+                {% if site.logourl != null %}
+                    <img class="logo" src="{{ site.logourl }}" alt="{{ site.logoalt }}">
+                {% endif %}
+                    <div class="site-title"><a class="title-link" href="{{ site.baseurl }}/">{{ site.name }}</a></div>
+                </div>
+            </header>
+
+            <div class="wrap content cf">
+                <section id="main" class="main-content" role="main">
+                    {{ content }}
+                </section>
+
+                {% include sidebar.html %}
+            </div> <!-- /.wrap.content -->
+
+            <footer role="contentinfo">
+                <div class="wrap">
+                    <div class="hug"></div>
+                    <p>
+                        © {{ site.time | date: '%Y' }} <a href="{{ site.author.url }}">{{ site.author.name }}</a>.
+                        Licensed under a
+                        <a href="http://creativecommons.org/licenses/by-sa/4.0/">
+                            Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+                    </p>
+                    <p>
+                        Hosted on <a href="https://pages.github.com/">GitHub Pages</a>.
+                        Jekyll theme adapted from <a href="https://github.com/cfpb/DOCter">DOCter</a>.
+                        <a href="https://github.com/Scotchester/">See the source code</a> ⇒
+                    </p>
+                </div>
+            </footer>
+        </div>
+
+    {% if site.offline_cache == true %}
+        <script>
+          if( 'serviceWorker' in navigator ) {
+            navigator.serviceWorker
+             .register( '{{ site.baseurl }}/sw.js' )
+             .catch(function( err ) {
+               console.log( 'ServiceWorker registration failed: ', err );
+             });
+           }
+        </script>
+    {% endif %}
+    </body>
+</html>

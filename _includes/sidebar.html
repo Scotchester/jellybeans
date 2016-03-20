@@ -1,0 +1,30 @@
+<aside class="sidebar">
+    <div class="intro">{{ site.subtitle }}</div>
+    <a class="skip-link visuallyhidden focusable" href="#main">Skip to Main Content</a>
+
+    <nav class="sidebar-nav" role="navigation">
+        <ul>
+    {% for link in site.navigation %}
+        {% if link.internal %}
+            <li><a {% if page.id == link.id %} class="sidebar-nav-active" {% endif %} href="{{ site.baseurl }}/{{ link.url }}">{{ link.text }}</a></li>
+        {% else %}
+            <li><a href="{{ link.url }}">{{ link.text }}</a></li>
+        {% endif %}
+    {% endfor %}
+        </ul>
+    </nav>
+
+{% if page.url != '/' %}
+    <h2>Reviews</h2>
+    <ul class="posts">
+    {% for post in site.posts limit:5 %}
+        <li>
+            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            <div class="post-date">{{ post.date | date: '%m/%d/%Y' }}</div>
+        </li>
+    {% endfor %}
+    </ul>
+    <a href="{{ site.baseurl }}/#reviews">See all</a> ⇒
+{% endif %}
+
+</aside>
