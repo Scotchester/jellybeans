@@ -28,4 +28,4 @@ Open it up in your browser: <http://localhost:4000/>
 
 ## License
 
-See [TERMS.md].
+See [TERMS.md](TERMS.md) for details.
