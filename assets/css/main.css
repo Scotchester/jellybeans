@@ -441,6 +441,7 @@ ul.posts {
 }
 
 .posts li {
+  margin-bottom: 0.75em;
     list-style: none;
 }
 
