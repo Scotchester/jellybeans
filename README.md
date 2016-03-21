@@ -3,7 +3,7 @@
 A simple website cataloguing my reviews of one of my favorite classes of candy:
 jelly beans.
 
-[View the site](https://scotchester.github.io/jellybeans/)
+View the site at [jellybeans.lol](http://jellybeans.lol)
 
 
 ## To run the site locally
@@ -20,7 +20,7 @@ bundle install
 Once that's done, to have Jekyll compile the site and start a server, run:
 
 ```sh
-bundle exec jekyll serve --watch --baseurl ''
+bundle exec jekyll serve --watch
 ```
 
 Open it up in your browser: <http://localhost:4000/>
