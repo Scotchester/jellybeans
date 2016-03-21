@@ -10,11 +10,18 @@
             {{ page.title }} – {{ site.name }}
         {% endif %}
         </title>
+    {% if page.description %}
+        <meta name="description" content="{{ page.description }}">
+    {% else %}
+        <meta name="description" content="{{ site.description }}">
+    {% endif %}
         <meta name="viewport" content="width=device-width">
 
         <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/normalize.css">
         <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
         <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/syntax.css">
+
+        {% feed_meta %}
     </head>
 
     <body>
@@ -48,7 +55,8 @@
                     <p>
                         Hosted on <a href="https://pages.github.com/">GitHub Pages</a>.
                         Jekyll theme adapted from <a href="https://github.com/cfpb/DOCter">DOCter</a>.
-                        <a href="https://github.com/Scotchester/">See the source code</a> ⇒
+                        Would you like an <a href="{{ site.baseurl }}//feed.xml">Atom feed</a>?
+                        See the <a href="https://github.com/Scotchester/">source code</a> ⇒
                     </p>
                 </div>
             </footer>
