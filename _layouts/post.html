@@ -9,9 +9,12 @@ layout: default
         <div class="post-date">{{ page.date | date: '%B %d, %Y' }}</div>
     </header>
 {% if page.image %}
-    <img class="packaging-image"
-         src="{{ site.baseurl }}/assets/img/{{ page.image }}"
-         alt="{{ page.title }} packaging">
+    <figure class="packaging-image{% if page.image-layout == 'float' %} packaging-image-float{% endif %}">
+        <img src="{{ site.baseurl }}/assets/img/{{ page.image }}" alt="{{ page.title }} packaging">
+        <figcaption class="packaging-image-attribution">
+            Image credit: {{ page.image-credit }}
+        </figcaption>
+    </figure>
 {% endif %}
     <section class="post">
         {{ content }}

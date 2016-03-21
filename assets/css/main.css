@@ -389,8 +389,21 @@ img {
 }
 
 .packaging-image {
-    display: block;
+    /* overriding normalized figcaption rules */
+    margin-top: 0;
+    margin-right: 0;
     margin-bottom: 1.5em;
+    margin-left: 0;
+}
+
+.packaging-image-float {
+    width: 250px;
+}
+.packaging-image-attribution {
+    color: #767676;
+    font-size: 0.75em;
+    font-style: italic;
+    text-align: right;
 }
 
 .inset {
@@ -499,6 +512,7 @@ Desktop Styles
     footer .wrap {
         position: relative;
     }
+
     .hug {
         width: 150px;
         height: 185px;
@@ -524,6 +538,12 @@ Desktop Styles
         margin-bottom: 2em;
         margin-left: 2em;
         float: right;
+    }
+
+    .packaging-image-float {
+        float: right;
+        margin-bottom: 2em;
+        margin-left: 2em;
     }
 }
 

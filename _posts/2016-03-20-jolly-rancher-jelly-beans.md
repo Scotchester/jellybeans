@@ -5,6 +5,8 @@ variety: Original Flavors
 date: 2016-03-20
 permalink: jolly-rancher-jelly-beans
 image: jolly-rancher-jelly-beans-original-flavors.jpg
+image-credit: Amazon.com
+image-layout: full
 ---
 
 Jolly Rancher has been one of my go-to jelly bean brands for several years now.
