@@ -20,7 +20,7 @@ Let's see how the ratings play out.
 ## Size and shape
 
 Welch's Jelly Beans do a better job at being bean-shaped than
-[Jolly Rancher beans](/jolly-rancher-jelly-beans/),
+[Jolly Rancher beans](/jolly-rancher-jelly-beans),
 but it's a bit of a brute force approach, rather than finesse.
 Whatever process they use to shape the beans tends to leave most of them with
 a nearly flat side perpendicular to the subtle concave depression.
