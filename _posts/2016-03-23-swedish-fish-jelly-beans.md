@@ -57,7 +57,7 @@ so it's hard to tell if that's just the grainy shell dominating.
     <ul class="emoji-list">
         <li>:red_circle: Swedish Fish Red</li>
     </ul>
-    Yep. That's it.
+    <p>Yep. That's it.</p>
 </div>
 
 The good news is that they taste pretty close to regular Swedish Fish.
