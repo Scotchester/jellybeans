@@ -9,7 +9,6 @@ image-credit: Amazon.com
 image-layout: float
 ---
 
-And we're back to another one of my annual favorites!
 Like three of the first four reviews on this site,
 and like several more to come, this is another collection
 of jelly beans being put out by an established candy brand.
@@ -17,6 +16,7 @@ of jelly beans being put out by an established candy brand.
 The original SweeTarts are a long-standing favorite candy of mine,
 along with many of their offshoots (gummy, sour chewy, etc.).
 SweeTarts Jelly Beans definitely do right by the brand.
+Let's see how they rate.
 
 
 ## Size and shape
@@ -110,10 +110,10 @@ naturally more drawn to.
 
 ## Conclusion
 
-This is the first year that I've tried Swedish Fish Jelly Beans.
-Given my aforementioned love for the original gummies, I was very sad to
-discover how lackluster this entrant into the jelly bean arena is.
-I will never purchase these again.
+And just like that, we have a new top scorer!
+SweeTarts Jelly Beans have been a favorite of mine for many years,
+and I highly recommend that you check them out and add them to your
+list annual Easter season jelly bean purchases.
 
 Category         | Score
 ---------------- | ---------------
