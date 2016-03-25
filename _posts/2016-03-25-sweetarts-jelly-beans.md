@@ -25,7 +25,7 @@ This is the weakest category for SweeTarts Jelly Beans;
 it's all uphill from here.
 
 Bean size and shape are wildly inconsistent, much like the
-[Swedish Fish Jelly Beans](/swedish-fish-jelly-beans).
+[Swedish Fish Jelly Beans](/swedish-fish-jelly-beans#size-and-shape).
 Average size is just a _little_ bit under what I'd prefer.
 I can see evidence of attempting to add a dimple on some beans,
 but the results aren't impressive.
@@ -49,7 +49,7 @@ The shell breaks down at exactly the right pace.
 It goes from fully intact before the first bite,
 to medium-sized hunks on initial breakup,
 to finishing as a fine powder that evokes the texture of
-an original SweeTART in its final stages of chewing.
+an original SweeTart in its final stages of chewing.
 
 These beans are a triumph of jelly bean texture.
 
@@ -128,6 +128,6 @@ _Total_          | **29**/35 beans
 
 ---
 
-[^1]: _After_ writing this comment about their resemblance to Pixy Stix, I read the introduction to the [SweeTarts Wikipedia entry](https://en.wikipedia.org/wiki/SweeTarts#Flavors), which claims that they were actually created from the same basic recipe as Pixy Stix. Brilliant!
+[^1]: _After_ writing this comment about their resemblance to Pixy Stix, I read the introduction to the [SweeTarts Wikipedia entry](https://en.wikipedia.org/wiki/SweeTarts), which claims that they were actually created from the same basic recipe as Pixy Stix. Brilliant!
 
 [^2]: This test is specific to fruit flavors _only_. While non-fruit flavors like licorice or buttered popcorn may be welcome, they are exempt from this test. Because that's just nasty.
