@@ -83,7 +83,7 @@ h4 {
     text-transform: uppercase;
 }
 
-p, ul, ol, table {
+p, ul, ol, table, blockquote {
     margin-top: 0;
     margin-bottom: 1.5em;
 }
@@ -399,6 +399,7 @@ img {
 .packaging-image-float {
     width: 250px;
 }
+
 .packaging-image-attribution {
     color: #767676;
     font-size: 0.75em;
@@ -417,6 +418,18 @@ img {
     margin-bottom: 0;
 }
 
+blockquote {
+    padding: 1.5em;
+    margin-right: 0;
+    margin-left: 0;
+    background-color: hsl(270, 49%, 92%);
+    font-style: italic;
+}
+
+blockquote p:last-child {
+    margin-bottom: 0;
+}
+
 ul.emoji-list {
     padding: 0;
     list-style: none;
@@ -425,6 +438,7 @@ ul.emoji-list {
 hr {
     margin: 3em 0 1.5em;
 }
+
 .footnotes {
     margin-top: 1.5em;
     color: #767676;
