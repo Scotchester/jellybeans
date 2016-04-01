@@ -132,7 +132,7 @@ in your mouth after you're about two-thirds of the way through chewing.
 The shell-to-insides imbalance discussed earlier does hurt the
 one-of-each experience slightly, too.
 
-**7 out of 10**
+**7 out of 10 beans**
 
 
 ## Conclusion

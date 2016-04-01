@@ -105,7 +105,7 @@ The flavors mesh very well together, and having six at once really
 highlights the tart aspect of the flavor, which is the side I'm
 naturally more drawn to.
 
-**10 out of 10**
+**10 out of 10 beans**
 
 
 ## Conclusion
