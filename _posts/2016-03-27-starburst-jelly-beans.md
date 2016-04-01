@@ -53,7 +53,7 @@ and there is no attempt at a dimple, which knocks the rating down slightly.
 ## Chewability
 
 These beans will be the second consecutive recipient of
-a perfect chewability score, despite having a signifiantly different
+a perfect chewability score, despite having a significantly different
 chewing chewing experience than
 [the previous review](/sweetarts-jelly-beans#chewability).
 
@@ -124,7 +124,7 @@ Overall, a pretty good job in this category.
 Perhaps the ultimate test of a bag of jelly beans is how enjoyable it is
 to take one of each flavor and eat them all at the same time.[^1]
 
-Starburt Jelly Beans perform pretty well in the one-of-each test.
+Starburst Jelly Beans perform pretty well in the one-of-each test.
 The quantity is manageable, and the flavors complement each other well,
 though it does end up feeling and tasting a lot like a bunch of Skittles
 in your mouth after you're about two-thirds of the way through chewing.
