@@ -11,9 +11,11 @@ layout: default
 {% if page.image %}
     <figure class="packaging-image{% if page.image-layout == 'float' %} packaging-image-float{% endif %}">
         <img src="{{ site.baseurl }}/assets/img/{{ page.image }}" alt="{{ page.title }} packaging">
+    {% if page.image-credit %}
         <figcaption class="packaging-image-attribution">
             Image credit: {{ page.image-credit }}
         </figcaption>
+    {% endif %}
     </figure>
 {% endif %}
     <section class="post">
