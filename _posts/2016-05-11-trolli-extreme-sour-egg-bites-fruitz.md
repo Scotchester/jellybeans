@@ -4,9 +4,9 @@ title: Trolli Extreme Sour Egg Bites Fruitz
 variety:
 date: 2016-05-11
 permalink: trolli-extreme-sour-egg-bites-fruitz
-image: trolli-extreme-sour-egg-bites-fruitz.jpg
+image:
 image-credit:
-image-layout: float
+image-layout:
 ---
 
 > Editor's note:
@@ -21,6 +21,13 @@ image-layout: float
 > to keep me going for a while!
 
 ---
+
+<figure class="packaging-image packaging-image-float">
+    <img src="{{ site.baseurl }}/assets/img/trolli-extreme-sour-egg-bites-fruitz.jpg" alt="Trolli Extreme Sour Egg Bites Fruitz packaging">
+    <figcaption class="packaging-image-attribution">
+        Image credit: groovycandies.com
+    </figcaption>
+</figure>
 
 We are gathered here today to review what is almost certainly
 the jelly bean brand with the wordiest name that we will ever encounter:
