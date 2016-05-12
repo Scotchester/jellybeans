@@ -4,7 +4,7 @@ title: Trolli Extreme Sour Egg Bites Fruitz
 variety:
 date: 2016-05-11
 permalink: trolli-extreme-sour-egg-bites-fruitz
-image: trolli-extreme-sour-egg-bites-fruitzs.jpg
+image: trolli-extreme-sour-egg-bites-fruitz.jpg
 image-credit:
 image-layout: float
 ---
