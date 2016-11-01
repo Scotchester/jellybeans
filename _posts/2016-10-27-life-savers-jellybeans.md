@@ -72,14 +72,14 @@ The insides are just right.
 </div>
 
 I'm a little puzzled by the inclusion of flavors that aren't part of the
-traditional five flavors of Life Savors (grape, strawberry, and green apple),
+traditional five flavors of Life Savers (grape, strawberry, and green apple),
 and the exclusion of pineapple is a great tragedy,
 but overall, the beans faithfully represent
 the flavor profile of Life Savers hard candies.
 The cherry flavor, especially, is a dead ringer for its hard candy inspiration.
 
 That said, looking at the objective taste of them as jelly beans,
-leaving aside their resemblance to the original Life Savors flavors,
+leaving aside their resemblance to the original Life Savers flavors,
 I feel that they are definitely lacking in acidity.
 They also leave a bit of a waxy taste in your mouth.
 On balance, the taste of these jelly beans is rather mediocre.
