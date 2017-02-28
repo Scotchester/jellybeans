@@ -2,12 +2,24 @@
   "name": "jellybeans",
   "version": "1.0.0",
   "description": "A website for reviewing jelly beans",
+  "dependencies": {
+    "normalize.css": "3.0.3"
+  },
   "devDependencies": {
+    "autoprefixer": "^6.7.5",
+    "caniuse-db": "^1.0.30000628",
+    "cssnano": "^3.10.0",
+    "pixrem": "^3.0.2",
+    "postcss-cli": "^2.6.0",
+    "postcss-custom-properties": "^5.0.2",
+    "postcss-import": "^9.1.0",
+    "postcss-nested": "^1.0.0",
     "webdrivercss": "^1.1.10",
     "webdriverio": "^2.0.0"
   },
   "scripts": {
-    "test": "node test/test.js"
+    "test": "node test/test.js",
+    "postcss": "postcss --config postcss.json"
   },
   "repository": {
     "type": "git",

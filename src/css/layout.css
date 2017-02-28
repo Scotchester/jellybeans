@@ -1,0 +1,115 @@
+/* ==========================================================================
+   LAYOUT
+   ========================================================================== */
+
+
+
+/* Header
+   ========================================================================== */
+
+.site-header {
+    width: 100%;
+    border-bottom: 4px solid var(--brand-color);
+    background-color: #fff;
+    padding: 2em 0;
+}
+
+.logo {
+    display: block;
+}
+
+
+
+/* Main
+   ========================================================================== */
+
+/* TODO: Replace div.content > section#main with a single main element,
+   if possible. */
+
+.content {
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+.post-date {
+    color: #767676;
+}
+
+
+/* Sidebar */
+
+.sidebar .intro {
+    margin: 0.75em 0 1em;
+}
+
+.sidebar-nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+.sidebar-nav li {
+    list-style: none;
+    border-bottom: 1px solid #babbbd;
+    font-size: 1.125em;
+}
+
+.sidebar-nav li:last-child {
+    border-bottom: none;
+}
+
+.sidebar-nav a {
+    display: block;
+    padding: 10px;
+    /*-webkit-transition: unset;
+    transition: unset;*/
+}
+
+.sidebar-nav a,
+.sidebar-nav a:link,
+.sidebar-nav a:visited {
+    border-left: 4px solid #fff;
+    color: #555;
+}
+
+.sidebar-nav a:hover,
+.sidebar-nav a:focus,
+.sidebar-nav a.sidebar-nav-active {
+    border-left-color: var(--brand-color);
+    /*background-color: transparent;*/
+    color: #222;
+}
+
+.sidebar-nav a:active {
+    border-left-color: #767676;
+    color: #767676;
+}
+
+.sidebar h2 {
+    margin-top: 1.333333333em;
+}
+
+
+
+/* Footer
+   ========================================================================== */
+
+/* for sticky footer */
+.container {
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+
+footer {
+    display: table-row; /* for sticky footer */
+    height: 1px; /* for sticky footer */
+    border-top: 2px solid #babbbd;
+    background: #f1f2f2;
+    width: 100%;
+    font-size: 0.875em;
+}
+
+footer .wrap {
+    padding-top: 2em;
+    padding-bottom: 2em;
+}

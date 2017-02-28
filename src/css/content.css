@@ -1,0 +1,63 @@
+/* ==========================================================================
+   CONTENT
+   ========================================================================== */
+
+img {
+    max-width: 100%;
+}
+
+.packaging-image {
+    /* overriding normalized figcaption rules */
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 1.5em;
+    margin-left: 0;
+}
+
+.packaging-image-float {
+    width: 250px;
+}
+
+.packaging-image-attribution {
+    color: #767676;
+    font-size: 0.75em;
+    font-style: italic;
+    text-align: right;
+}
+
+.inset {
+    padding: 1em;
+    background-color: hsl(270, 49%, 92%);
+    box-shadow: 6px 6px 0 var(--brand-color);
+}
+
+.inset p:last-child,
+.inset ul:last-child {
+    margin-bottom: 0;
+}
+
+blockquote {
+    padding: 1.5em;
+    margin-right: 0;
+    margin-left: 0;
+    background-color: hsl(270, 49%, 92%);
+    font-style: italic;
+}
+
+blockquote p:last-child {
+    margin-bottom: 0;
+}
+
+ul.emoji-list {
+    padding: 0;
+    list-style: none;
+}
+
+hr {
+    margin: 3em 0 1.5em;
+}
+
+.footnotes {
+    margin-top: 1.5em;
+    color: #767676;
+}

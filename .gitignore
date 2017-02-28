@@ -4,5 +4,6 @@ _site/
 .jekyll-metadata
 Gemfile.lock
 
-# Test artifacts
+# Test stuff
+geckodriver
 test/screenshots/

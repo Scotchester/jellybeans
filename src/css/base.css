@@ -1,0 +1,231 @@
+/* ==========================================================================
+   BASE STYLES
+   ========================================================================== */
+
+
+
+/* Normalize the box model
+   See: http://www.paulirish.com/2012/box-sizing-border-box-ftw/
+   ========================================================================== */
+
+
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+
+
+/* Global styles
+   ========================================================================== */
+
+
+/* TODO: Is this still necessary? Guessing so, for the footer/hug.
+   Consider relocating to a hug-specific section. */
+html,
+body {
+    height: 100%;
+    /* Had to set background color on both elements in order to get
+       WebdriverCSS's screenshots to show the white background correctly all
+       the way down. */
+    background: #fff;
+}
+
+/* TODO: Pick a different font. Cooper Hewitt? System stack? */
+body {
+    color: #222;
+    font-family: "Avenir Next", Arial, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.5;
+}
+
+
+
+/* Core typography
+   ========================================================================== */
+
+
+/* Links */
+
+a {
+    transition: 0.2s;
+}
+
+a,
+a:link,
+a:visited {
+    color: var(--brand-color);
+}
+
+a:hover,
+a:focus {
+    color: hsl(270, 49%, 55%);
+}
+
+a:active {
+    color: #767676;
+}
+
+a.title-link {
+    color: #555;
+    text-decoration: none;
+}
+
+a.title-link:hover,
+a.title-link:focus {
+    color: #767676;
+}
+a.title-link:active {
+    color: #222;
+}
+
+a.skip-link {
+    padding: 0.25em;
+    color: #0072ce;
+    text-decoration: none;
+}
+
+a.skip-link:hover,
+a.skip-link:active,
+a.skip-link:focus {
+    background-color: #0072ce;
+    color: #fff;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+
+/* Headings */
+
+h1,
+h3,
+h4,
+h5,
+strong {
+    font-family: "Avenir Next Demi", "Avenir Next", Arial, sans-serif;
+    font-weight: 600;
+}
+
+.site-title {
+    font-size: 1.625em;
+    font-family: "Avenir Next", Arial, sans-serif;
+    font-weight: normal;
+    color: #949494;
+    margin: 0;
+    line-height: 1.2941176470588236; /* What is this working out to? */
+    /* TODO: Replace with calc() */
+    display: inline-block;
+}
+
+h1 {
+    margin-top: 0;
+    line-height: 1.25;
+}
+
+h2 {
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.5em;
+    margin: 2em 0 1em;
+}
+
+h3 {
+    margin-top: 0;
+}
+
+h4 {
+    font-size: 1em;
+    text-transform: uppercase;
+}
+
+
+/* ??? */
+
+p,
+ul,
+ol,
+table,
+blockquote {
+    margin-top: 0;
+    margin-bottom: 1.5em;
+}
+
+.post-title {
+    margin-bottom: 0;
+}
+
+.variety {
+    color: #666;
+    font-size: 1.25em;
+    font-style: italic;
+}
+
+.post-header .post-date {
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+
+pre {
+    max-width: 100%;
+    font-size: 0.875em;
+    overflow-y: scroll;
+    background-color: #f1f2f2;
+    padding: 10px;
+}
+
+
+/* Lists */
+
+.main-content ul {
+    padding-left: 1.5em;
+}
+
+.main-content li {
+    margin-bottom: 0.25em;
+}
+
+li h3,
+li h4 {
+    margin: 0;
+}
+
+li p {
+    margin-top: 0;
+}
+
+
+/* Tables */
+
+table {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+thead {
+    border-bottom: 4px solid var(--brand-color);
+    background-color: hsl(270, 49%, 92%);
+}
+
+tbody:last-child {
+    border-top: 2px solid var(--brand-color);
+}
+
+th,
+td {
+    padding: 5px 10px;
+    text-align: left;
+}
+
+th {
+    font-family: "Avenir Next Demi", "Avenir Next", Arial, sans-serif;
+    font-weight: 600;
+}
+
+.homepage-posts {
+    width: 100%;
+}

@@ -1,0 +1,66 @@
+/* ==========================================================================
+   MEDIA QUERIES
+   ========================================================================== */
+
+
+/* Medium-sized screen styles -- introduces the two-column layout
+   ========================================================================== */
+
+@media screen and (min-width: 45em) {
+    .logo {
+        max-width: 30%;
+        padding-right: 20px;
+        float: right;
+    }
+
+    footer .wrap {
+        position: relative;
+    }
+
+    .hug {
+        width: 150px;
+        height: 185px;
+        position: absolute;
+        top: -185px;
+        background: url('../img/hug.jpg') no-repeat left bottom;
+        background-size: 150px;
+    }
+
+    .main-content {
+        width: 75%;
+        float: right;
+    }
+
+    .sidebar {
+        width: 20%;
+        padding-bottom: 185px; /* save room for the hug */
+        float: left;
+    }
+
+    .inset {
+        width: 38%;
+        margin-bottom: 2em;
+        margin-left: 2em;
+        float: right;
+    }
+
+    .packaging-image-float {
+        float: right;
+        margin-bottom: 2em;
+        margin-left: 2em;
+    }
+}
+
+
+/* Large-sized screen styles -- adjust column widths
+   ========================================================================== */
+
+@media screen and (min-width: 55em) {
+    .sidebar {
+        width: 30%;
+    }
+
+    .main-content {
+        width: 65%;
+    }
+}
