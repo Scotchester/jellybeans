@@ -1,0 +1,27 @@
+{
+  "name": "jellybeans",
+  "version": "1.0.0",
+  "description": "A website for reviewing jelly beans",
+  "devDependencies": {
+    "webdrivercss": "^1.1.10",
+    "webdriverio": "^2.0.0"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scotchester/jellybeans.git"
+  },
+  "keywords": [
+    "website",
+    "jekyll",
+    "jelly beans"
+  ],
+  "author": "Scott Cranfill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Scotchester/jellybeans/issues"
+  },
+  "homepage": "https://github.com/Scotchester/jellybeans#readme"
+}
