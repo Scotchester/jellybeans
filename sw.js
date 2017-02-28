@@ -1,24 +1,31 @@
 ---
-layout: null
+lolwut?: Jekyll requires some front matter to process variables from _config.yml
 ---
 
-importScripts( '{{ site.baseurl }}/cache-polyfill.js' );
+importScripts( '{{ site.url }}/cache-polyfill.js' );
 
 var filesToCache = [
+
   // root
-  '{{ site.baseurl }}/',
-  '{{ site.baseurl }}/index.html',
+  '{{ site.url }}/',
+  '{{ site.url }}/index.html',
+
   // css
-  '{{ site.baseurl }}/assets/css/main.css',
-  '{{ site.baseurl }}/assets/css/normalize.css',
-  '{{ site.baseurl }}/assets/css/syntax.css',
+  '{{ site.url }}/assets/css/main.css',
+  '{{ site.url }}/assets/css/normalize.css',
+  '{{ site.url }}/assets/css/syntax.css',
+
   // images
-  '{{ site.baseurl }}/assets/img/hug.jpg',
-  '{{ site.baseurl }}/assets/img/jolly-rancher-jelly-beans-original-flavors.jpg',
+  '{{ site.url }}/static/img/hug.jpg',
+
   // pages
-  {% for page in site.pages %}'{{ site.baseurl }}{{ page.url }}',{% endfor %}
+  {% for page in site.pages %}'{{ site.url }}{{ page.url }}',
+  {% endfor %}
+
   // posts
-  {% for post in site.posts %}'{{ site.baseurl }}{{ post.url }}',{% endfor %}
+  {% for post in site.posts %}'{{ site.url }}{{ post.url }}',
+  {% endfor %}
+
 ];
 
 self.addEventListener( 'install', function( e ) {

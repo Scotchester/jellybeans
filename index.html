@@ -1,6 +1,6 @@
 ---
 layout: default
-id: home
+slug: home
 ---
 
 {% capture index %}{% include index.md %}{% endcapture %}
@@ -18,7 +18,7 @@ id: home
     <tbody>
     {% for post in site.posts %}
         <tr>
-            <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></td>
+            <td><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></td>
             <td>{{ post.variety }}</td>
             <td class="post-date">{{ post.date | date: '%m/%d/%Y' }}</td>
         </tr>

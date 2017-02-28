@@ -5,9 +5,9 @@
         <meta charset="utf-8">
         <title>
         {% if page.title == null %}
-            {{ site.name }}
+            {{ site.title }}
         {% else %}
-            {{ page.title }} – {{ site.name }}
+            {{ page.title }} – {{ site.title }}
         {% endif %}
         </title>
     {% if page.description %}
@@ -17,9 +17,9 @@
     {% endif %}
         <meta name="viewport" content="width=device-width">
 
-        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/normalize.css">
-        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
-        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/syntax.css">
+        <link rel="stylesheet" href="{{ site.url }}/assets/css/normalize.css">
+        <link rel="stylesheet" href="{{ site.url }}/assets/css/main.css">
+        <link rel="stylesheet" href="{{ site.url }}/assets/css/syntax.css">
 
         {% feed_meta %}
     </head>
@@ -31,7 +31,7 @@
                 {% if site.logourl != null %}
                     <img class="logo" src="{{ site.logourl }}" alt="{{ site.logoalt }}">
                 {% endif %}
-                    <div class="site-title"><a class="title-link" href="{{ site.baseurl }}/">{{ site.name }}</a></div>
+                    <div class="site-title"><a class="title-link" href="{{ site.url }}/">{{ site.title }}</a></div>
                 </div>
             </header>
 
@@ -41,7 +41,7 @@
                 </section>
 
                 {% include sidebar.html %}
-            </div> <!-- /.wrap.content -->
+            </div>
 
             <footer role="contentinfo">
                 <div class="wrap">
@@ -55,7 +55,7 @@
                     <p>
                         Hosted on <a href="https://pages.github.com/">GitHub Pages</a>.
                         Jekyll theme adapted from <a href="https://github.com/cfpb/DOCter">DOCter</a>.
-                        Would you like an <a href="{{ site.baseurl }}/feed.xml">Atom feed</a>?
+                        Would you like an <a href="{{ site.url }}/feed.xml">Atom feed</a>?
                         See the <a href="https://github.com/Scotchester/jellybeans">source code</a> ⇒
                     </p>
                 </div>
@@ -66,7 +66,7 @@
         <script>
           if( 'serviceWorker' in navigator ) {
             navigator.serviceWorker
-             .register( '{{ site.baseurl }}/sw.js' )
+             .register( '{{ site.url }}/sw.js' )
              .catch(function( err ) {
                console.log( 'ServiceWorker registration failed: ', err );
              });

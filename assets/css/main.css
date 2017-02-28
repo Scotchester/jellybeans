@@ -15,10 +15,10 @@ See: http://www.paulirish.com/2012/box-sizing-border-box-ftw/
 */
 
 html {
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
 *, *:before, *:after {
-  box-sizing: inherit;
+    box-sizing: inherit;
 }
 
 /*
@@ -30,13 +30,20 @@ html, body {
     height: 100%;
 }
 
+/* Had to set background color on both elements in order to get WebdriverCSS's
+   screenshots to show the white background correctly all the way down. */
+html,
+body {
+    background: #fff;
+}
+
 /*
 Typography
 ==================================
 */
 
 body {
-  color: #222;
+    color: #222;
     font-family: "Avenir Next", Arial, sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -306,7 +313,6 @@ Layout
 .site-header {
     width: 100%;
     border-bottom: 4px solid {{ site.brand_color }};
-    background-color: #fff;
     padding: 2em 0;
 }
 
@@ -533,7 +539,7 @@ Desktop Styles
         height: 185px;
         position: absolute;
         top: -185px;
-        background: url('{{ site.baseurl }}/assets/img/hug.jpg') no-repeat left bottom;
+        background: url('{{ site.url }}/static/img/hug.jpg') no-repeat left bottom;
         background-size: 150px;
     }
 
@@ -547,6 +553,18 @@ Desktop Styles
         padding-bottom: 185px; /* save room for the hug */
         float: left;
     }
+
+    /*.sidebar:after {
+        content: '';
+        display: block;
+        width: 1px;
+        height: 100%;
+        position: absolute;
+        right: 0;
+        top: 0;
+        z-index: -1;
+        background: #babbbd;
+    }*/
 
     .inset {
         width: 38%;

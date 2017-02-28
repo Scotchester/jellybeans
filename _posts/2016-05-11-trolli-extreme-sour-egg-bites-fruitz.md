@@ -23,7 +23,7 @@ image-layout:
 ---
 
 <figure class="packaging-image packaging-image-float">
-    <img src="{{ site.baseurl }}/assets/img/trolli-extreme-sour-egg-bites-fruitz.jpg" alt="Trolli Extreme Sour Egg Bites Fruitz packaging">
+    <img src="{{ site.url }}/static/img/trolli-extreme-sour-egg-bites-fruitz.jpg" alt="Trolli Extreme Sour Egg Bites Fruitz packaging">
     <figcaption class="packaging-image-attribution">
         Image credit: groovycandies.com
     </figcaption>

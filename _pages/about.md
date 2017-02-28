@@ -1,8 +1,8 @@
 ---
 layout: page
 title:  About this site
-permalink: about/
-id: about
+permalink: /about/
+slug: about
 ---
 
 I love Easter season. Easter has some of the best seasonal candy.

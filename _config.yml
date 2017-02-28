@@ -1,21 +1,35 @@
 # Base configuration
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+exclude:
+  - node_modules
+  - src
+  - test
+  - .gitignore
+  - CONTRIBUTING.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - package.json
+  - postcss.json
+  - README.md
+  - TERMS.md
 markdown: kramdown
+kramdown:
+  input: GFM
 highlighter: rouge
 
+# Collections
 collections:
   pages:
     output: true
     permalink: /:path/
 
 # Title
-name: A Boy and His Beans
+title: A Boy and His Beans
 description: A collection of jelly bean reviews.
 
-# URLs
+# URL (automatically set to http://localhost:4000 in development mode;
+# see: http://ben.balter.com/jekyll-style-guide/config/)
 url: http://jellybeans.lol
-## baseurl set to empty string because the site lives at a FQDN
-baseurl: ''
 
 # Author/Organization info to be displayed in the templates
 author:
@@ -30,20 +44,20 @@ logoalt:
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Home
-  url: ./
-  internal: true
-  id: home
-- text: About
-  url: about/
-  internal: true
-  id: about
-- text: Amazon List
-  url: https://www.amazon.com/gp/registry/wishlist/36YXMMNMA3W5D/
-  internal: false
+  - label: Home
+    path: ./
+    internal: true
+    slug: home
+  - label: About
+    path: about/
+    internal: true
+    slug: about
+  - label: Amazon List
+    url: https://www.amazon.com/gp/registry/wishlist/36YXMMNMA3W5D/
+    internal: false
 
 # Style Variables
-brand_color: "rebeccapurple"
+brand_color: '#639'
 
 # Jekyll plugins
 gems:
