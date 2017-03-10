@@ -5,13 +5,6 @@ var options = {
   }
 };
 
-// // create a WebdriverIO instance
-// var client = require('webdriverio').remote({
-//   desiredCapabilities: {
-//     browserName: 'phantomjs'
-//   }
-// }).init();
-
 // initialise WebdriverCSS for `client` instance
 
 var client = webdriverio

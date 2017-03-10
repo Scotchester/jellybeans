@@ -11,9 +11,7 @@ var filesToCache = [
   '{{ site.url }}/index.html',
 
   // css
-  '{{ site.url }}/assets/css/main.css',
-  '{{ site.url }}/assets/css/normalize.css',
-  '{{ site.url }}/assets/css/syntax.css',
+  '{{ site.url }}/static/css/main.min.css',
 
   // images
   '{{ site.url }}/static/img/hug.jpg',
