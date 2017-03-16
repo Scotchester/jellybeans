@@ -66,4 +66,4 @@ gems:
 
 # Offline caching
 offline_cache: true
-cache_name: jellybeans-v1.11
+cache_name: jellybeans-v1.12
