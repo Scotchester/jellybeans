@@ -58,7 +58,7 @@ Still a slightly high ratio of shell to insides.
     <ul class="emoji-list">
         <li>:grapes: :lemon: Grape-Ade</li>
         <li>:stuck_out_tongue: :watermelon: Razzin Watermelon</li>
-        <li>:banana: :boom: Banana Berry Blast:</li>
+        <li>:banana: :boom: Banana Berry Blast</li>
         <li>:palm_tree: :cherries: Tropical Cherry Splash</li>
         <li>:strawberry: :green_apple: Strappleberry</li>
         <li>:peach: :peach: Peach-a-Palooza</li>
