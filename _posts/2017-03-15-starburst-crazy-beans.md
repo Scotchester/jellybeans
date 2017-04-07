@@ -27,7 +27,7 @@ The consistency of form, however, seems to be noticeably
 (but not massively) worse than the originals,
 if my memory isn't playing tricks on me.
 
-Those two criticims, coupled with the lack of a dimple,
+Those two criticisms, coupled with the lack of a dimple,
 earn the Crazy Beans one bean less than the originals in this category:
 
 **3 out of 5 beans**

@@ -35,7 +35,7 @@ To keep myself sane and this review mercifully short,
 I'll just bullet-point this:
 
 - Too small overall, with some bad outliers in size
-- Too flat in overall shape; surfaces aren't very mooth
+- Too flat in overall shape; surfaces aren't very smooth
 - No dimple
 - Too many double beans
 - No redeeming qualities in this category
@@ -45,7 +45,7 @@ I'll just bullet-point this:
 
 ## Chewability
 
-The smaller size contributes positiviely to chewability,
+The smaller size contributes positively to chewability,
 but that's mainly a benefit because it's overcoming the
 overly stiff and thick shell.
 
@@ -60,7 +60,7 @@ Once bitten into, the texture reveals itself to be
 the one quality of these jelly beans that stands out positively.
 (Not that that's saying a whole lot.)
 The shell breaks down very smoothly, resulting in a creaminess
-that is reminiscent of the current regining champ,
+that is reminiscent of the current reigning champ,
 [SweeTarts Jelly Beans](/sweetarts-jelly-beans).
 
 The insides are a little on the light side,
