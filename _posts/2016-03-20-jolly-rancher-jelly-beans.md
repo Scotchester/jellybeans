@@ -116,7 +116,7 @@ Texture          | **3**/5 beans
 Taste and flavor | **9**/10 beans
 One-of-each test | **6**/10 beans
 ---------------- | ---------------
-_Total_          | **24**/35 beans
+_Total_          | **23**/35 beans
 
 
 ---
