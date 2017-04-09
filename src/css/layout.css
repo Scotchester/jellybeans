@@ -93,16 +93,22 @@
 /* Footer
    ========================================================================== */
 
-/* for sticky footer */
+html,
+body {
+    /* required for sticky footer */
+    height: 100%;
+}
+
 .container {
+    /* required for sticky footer */
     display: table;
     height: 100%;
     width: 100%;
 }
 
 footer {
-    display: table-row; /* for sticky footer */
-    height: 1px; /* for sticky footer */
+    display: table-row; /* required for sticky footer */
+    height: 1px; /* required for sticky footer */
     border-top: 2px solid #babbbd;
     background: #f1f2f2;
     width: 100%;
