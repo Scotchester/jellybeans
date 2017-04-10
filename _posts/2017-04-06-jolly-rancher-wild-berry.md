@@ -121,7 +121,7 @@ This line from that previous review still holds true, though,
 which makes me a happy camper:
 
 > [A] stunning amount of delicious, juicy, tongue-tingling Jolly Rancher flavor
-is released when your teeth are crushing [five] beans at the same time."
+is released when your teeth are crushing [five] beans at the same time.
 
 **7 out of 10 beans**
 
