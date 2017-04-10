@@ -22,19 +22,16 @@ html {
    ========================================================================== */
 
 
-/* TODO: Is this still necessary? Guessing so, for the footer/hug.
-   Consider relocating to a hug-specific section. */
 html,
 body {
-    height: 100%;
     /* Had to set background color on both elements in order to get
        WebdriverCSS's screenshots to show the white background correctly all
        the way down. */
     background: #fff;
 }
 
-/* TODO: Consider whether adding a webfont ehnances design enough to pay the
-   performance penalty. */
+/* TODO: Consider whether adding a webfont would enhance the design enough to
+   pay the performance penalty. */
 body {
     color: #222;
     font-family: system;
