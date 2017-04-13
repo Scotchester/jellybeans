@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Starburst Jelly Beans: Original
+title: "Starburst Jelly Beans: Original"
 brand: Starburst
 variety: Original
 date: 2016-03-25

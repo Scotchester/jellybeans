@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mike and Ike Jelly Beans: Assorted Fruits
+title: "Mike and Ike Jelly Beans: Assorted Fruits"
 brand: Mike and Ike
 variety: Assorted Fruits
 date: 2017-03-09

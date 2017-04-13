@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brach's Speckled Jelly Bird Eggs
+title: "Brach's Speckled Jelly Bird Eggs"
 brand: Brach's
 variety: Speckled Jelly Bird Eggs
 date: 2017-04-11

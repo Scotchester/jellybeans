@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jolly Rancher Jelly Beans: Original Flavors
+title: "Jolly Rancher Jelly Beans: Original Flavors"
 brand: Jolly Rancher
 variety: Original Flavors
 date: 2016-03-20

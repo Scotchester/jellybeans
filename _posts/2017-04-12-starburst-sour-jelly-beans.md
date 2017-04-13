@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Starburst Jelly Beans: Sour
+title: "Starburst Jelly Beans: Sour"
 brand: Starburst
 variety: Sour
 date: 2017-04-12
