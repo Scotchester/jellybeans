@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Jolly Rancher Jelly Beans
+title: Jolly Rancher Jelly Beans: Wild Berry
+brand: Jolly Rancher
 variety: Wild Berry
 date: 2017-04-06
 permalink: jolly-rancher-wild-berry

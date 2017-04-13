@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Just Born Jelly Beans
+title: Just Born Jelly Beans: Original Fruit Flavored
+brand: Just Born
 variety: Original Fruit Flavored
 date: 2016-10-31
 permalink: just-born-jelly-beans

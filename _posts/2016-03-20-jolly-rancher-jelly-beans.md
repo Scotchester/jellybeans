@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Jolly Rancher Jelly Beans
+title: Jolly Rancher Jelly Beans: Original Flavors
+brand: Jolly Rancher
 variety: Original Flavors
 date: 2016-03-20
 permalink: jolly-rancher-jelly-beans

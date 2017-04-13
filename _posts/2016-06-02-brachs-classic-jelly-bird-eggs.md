@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Brach's Jelly Bird Eggs
-variety: Classic
+title: Brach's Classic Jelly Bird Eggs
+brand: Brach's
+variety: Classic Jelly Bird Eggs
 date: 2016-06-02
 permalink: brachs-classic-jelly-bird-eggs
 image: brachs-classic-jelly-bird-eggs.jpg

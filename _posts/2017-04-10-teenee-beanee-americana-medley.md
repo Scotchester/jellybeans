@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Teenee Beanee
+title: Teenee Beanee: Americana Medley
+brand: Teenee Beanee
 variety: Americana Medley
 date: 2017-04-10
 permalink: teenee-beanee-americana-medley

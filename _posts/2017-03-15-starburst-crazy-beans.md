@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Starburst
+title: Starburst Crazy Beans
+brand: Starburst
 variety: Crazy Beans
 date: 2017-03-15
 permalink: starburst-crazy-beans

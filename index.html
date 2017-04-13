@@ -18,7 +18,7 @@ slug: home
     <tbody>
     {% for post in site.posts %}
         <tr>
-            <td><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></td>
+            <td><a href="{{ site.url }}{{ post.url }}">{% if post.brand %}{{ post.brand }}{% else %}{{ post.title }}{% endif %}</a></td>
             <td>{{ post.variety }}</td>
             <td class="post-date">{{ post.date | date: '%m/%d/%Y' }}</td>
         </tr>

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Life Savers Jelly Beans
+title: Life Savers Jelly Beans: Assorted Flavors
+brand: Life Savers
 variety: Assorted Flavors
 date: 2016-10-27
 permalink: life-savers-jellybeans

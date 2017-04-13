@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Starburst Jelly Beans
+title: Starburst Jelly Beans: Original
+brand: Starburst
 variety: Original
 date: 2016-03-25
 permalink: starburst-jelly-beans
