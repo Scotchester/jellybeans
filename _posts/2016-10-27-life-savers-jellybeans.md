@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Life Savers Jellybeans
+title: Life Savers Jelly Beans
 variety: Assorted Flavors
 date: 2016-10-27
 permalink: life-savers-jellybeans
@@ -11,8 +11,8 @@ image-layout: float
 
 In honor of the Chicago Cubs, playing in their first World Series since 1945,
 it's time for a review of some jelly beans from the Wm. Wrigley Jr. Company
-of Chicago, Illinois – another set of  beans that are based upon a prominent,
-pre-existing brand of candy – Life Savers Jellybeans.
+of Chicago, Illinois – another set of beans that are based upon a prominent,
+preexisting brand of candy – Life Savers Jelly Beans.
 
 I've definitely been a fan of the traditional Life Savers hard candy in my life,
 especially the classic cherry flavor. How do their jelly beans stack up?
@@ -51,7 +51,7 @@ may not be  reflective of the beans in a freshly-opened package.
 While the shell gets a _little_ powdery when broken up,
 and the overall texture balance is too far in favor of shell
 (due to the small average size of the beans),
-the overall texture of Life Savers Jellybeans is good.
+the overall texture of Life Savers Jelly Beans is good.
 The insides are just right.
 
 **3 out of 5 beans**
