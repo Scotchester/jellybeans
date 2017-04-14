@@ -107,7 +107,7 @@ without feeling grainy.
     </ul>
 </div>
 
-WHile I wasn't blown away, there are some very good flavors in this package.
+While I wasn't blown away, there are some very good flavors in this package.
 Not all that surprising, given the pedigree of Jelly Belly and Snapple.
 
 - I don't know what fruit punch _is_, but I have known since I was a kid
