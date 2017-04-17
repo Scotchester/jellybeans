@@ -145,7 +145,7 @@ For starters, I will cop to the fact that I have not tried
 and will not be trying even one Spicy Cinnamon, Coconut,
 or Piña Colada jelly bean, because those are disgusting.
 Some other disappointments include having a hard time discerning
-which beans are Wild Cheery and which are Red Delicious, and
+which beans are Wild Cherry and which are Red Delicious, and
 weak flavors in Key Lime, Green Apple, and Pomegranate.
 
 But disappointments aside, there are many outstanding fruit flavors here:
@@ -154,9 +154,9 @@ But disappointments aside, there are many outstanding fruit flavors here:
 - Pink Grapefruit is always a welcome flavor
 - I don't know what Superfruit Fusion is supposed to be, exactly,
   but it packs a huge acidic flavor punch
-- Sour Chery is one of the best sour beans I've had, because
+- Sour Cherry is one of the best sour beans I've had, because
   it actually tastes like sour cherry fruit,
-  and it's just a regular fruit flavor with citric acid piled on
+  and it's not just a regular fruit flavor with citric acid piled on
 - Lemon Meringue stars off with a nice tart lemon flavor before
   the meringue flavor comes along in the finish
 - Orange 'n' Créme was a pleasant surprise; both components come through
