@@ -93,7 +93,7 @@ contributing some moisture to the whole situation.
     <h3>Flavors</h3>
     <ul class="emoji-list">
         <li>:cherries: Cherry</li>
-        <li>:strawberry: :strawberry: Strawberry</li>
+        <li>:strawberry: Strawberry</li>
         <li>:blue_heart: Raspberry</li>
         <li>:tennis: Lime</li>
     </ul>
