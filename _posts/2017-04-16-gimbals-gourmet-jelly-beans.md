@@ -10,7 +10,7 @@ image-credit: Amazon.com
 image-layout: full
 ---
 
-It's the final day of the jelly bean season 2017,
+It's the final day of the 2017 jelly bean season,
 and today I present the most ambitious review to date on
 <cite>A Boy and His Beans</cite>: Gimbal's Gourmet Jelly Beans!
 
