@@ -75,7 +75,7 @@ These could stand to be perhaps just a little more sour,
 but Jelly Belly does really well at maintaining the flavor.
 
 The cherry is a very authentic cherry flavor.
-The added tartness of the Orange reminds me of
+The added tartness of the orange reminds me of
 perfectly-ripe clementines at their seasonal peak.
 The lemon is like the jelly-bean-ification of fresh lemonade
 made with just hint of raw cane sugar.
