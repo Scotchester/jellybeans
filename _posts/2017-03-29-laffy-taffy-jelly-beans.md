@@ -135,7 +135,7 @@ at the very least, you beat out the two worst scoring beans to date,
 [Russell Stover Pectin Jelly Beans](/russell-stover-pectin-jelly-beans) and
 [Brach's Classic Jelly Bird Eggs](/brachs-classic-jelly-bird-eggs).
 
-Onto something hopefully tastier for the next review!
+On to something hopefully tastier for the next review!
 
 
 ---

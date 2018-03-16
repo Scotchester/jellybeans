@@ -31,7 +31,7 @@ I'm not one to get hung up on eating wholly artificial foods
 the candy you're eating is marginally healthier than most.
 And the real fruit components probably improve the flavor quality.
 
-But now I'm getting ahead of myself. Onto the review!
+But now I'm getting ahead of myself. On to the review!
 
 
 ## Size and shape
