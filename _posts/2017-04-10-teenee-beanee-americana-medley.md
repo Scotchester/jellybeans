@@ -34,7 +34,7 @@ Come on this "cross-country tour" of flavors with me and see!
 
 ## Size and shape
 
-Pretty good showing here, Teanee Beanee.
+Pretty good showing here, Teenee Beanee.
 The beans are close to a true bean shape,
 being mostly rounded with a fairly consistent dimple.
 Occasionally one of the long ends of a bean will get too pointy,
@@ -147,7 +147,7 @@ Size and shape   | **3**/5 beans
 Chewability      | **4**/5 beans
 Texture          | **5**/5 beans
 Taste and flavor | **7**/10 beans
-One-of-each test | **6**/10 beans
+One-of-each test | **7**/10 beans
 ---------------- | ---------------
 _Total_          | **26**/35 beans
 
