@@ -1127,6 +1127,7 @@ img {
 
 .inset {
     padding: 1em;
+    margin-bottom: 2em;
     background-color: hsl(270, 49%, 92%);
     box-shadow: 6px 6px 0 #639;
 }
@@ -1220,7 +1221,6 @@ hr {
 
     .inset {
         width: 38%;
-        margin-bottom: 2em;
         margin-left: 2em;
         float: right;
     }
