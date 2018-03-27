@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Trolli Extreme Sour Egg Bites Fruitz
-variety:
+brand: Trolli
+variety: Extreme Sour Egg Bites Fruits
 date: 2016-05-11
 permalink: trolli-extreme-sour-egg-bites-fruitz
 image:
@@ -47,7 +48,7 @@ Enough intro; let's get on with the review.
 
 ## Size and shape
 
-The average size of these jelly beans –  _Should I stop referring to them
+The average size of these jelly beans – _Should I stop referring to them
 as jelly beans, since the manufacturer does not?_ – is just about right;
 maybe a _hair_ on the small side.
 Variance is small; no beans are abnormally small or large.
