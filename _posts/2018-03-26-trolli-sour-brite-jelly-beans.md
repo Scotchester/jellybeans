@@ -3,7 +3,7 @@ layout: post
 title: Trolli Sour Brite Jelly Beans
 brand: Trolli
 variety: Sour Brite Jelly Beans
-date: 2018-03-25
+date: 2018-03-26
 permalink: teenee-beanee-island-breeze
 image: teenee-beanee-island-breeze.jpg
 image-credit: Amazon.com
