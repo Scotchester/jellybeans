@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jelly Belly Sours"
+title: "Jelly Belly: Sours"
 brand: Jelly Belly
 variety: Sours
 date: 2018-03-15
