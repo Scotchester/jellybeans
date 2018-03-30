@@ -48,7 +48,7 @@ Then on the inside, the texture has a bit of that
 bubble-gummy thing going on, much like Trolli's two varieties
 that I've previously reviewed.
 
-Not a great category for Now and Later
+Not a great category for Now and Later.
 
 
 **1 out of 5 beans**
