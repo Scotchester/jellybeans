@@ -88,7 +88,7 @@ My wife _did_ taste it, and she reports that
 it has a really strong coconut flavor.
 
 > "It's fine, but it's not blowing me away. But I also eat coconut infrequently,
-  so I don't have a good real-life benchmark for how it should taste."
+   so I don't have a good real-life benchmark for how it should taste."
 
 As for the worthwhile flavors, they're all pretty tasty.
 I think that the pineapple is the most accurate I've yet to come across,
