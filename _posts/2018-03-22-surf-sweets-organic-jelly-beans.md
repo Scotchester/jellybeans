@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Surf Sweets Organic Jelly Beans"
+title: Surf Sweets Organic Jelly Beans
 brand: Surf Sweets
-variety:
+variety: Organic
 date: 2018-03-22
 permalink: surf-sweets-organic-jelly-beans
 image: surf-sweets-organic-jelly-beans.jpg
