@@ -27,10 +27,6 @@ collections:
 title: A Boy and His Beans
 description: A collection of jelly bean reviews.
 
-# URL (automatically set to http://localhost:4000 in development mode;
-# see: http://ben.balter.com/jekyll-style-guide/config/)
-url: http://jellybeans.lol
-
 # Author/Organization info to be displayed in the templates
 author:
   name: Scott Cranfill
