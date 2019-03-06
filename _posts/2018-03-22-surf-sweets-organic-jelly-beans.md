@@ -11,7 +11,7 @@ image-layout: float
 ---
 
 By popular demand[^1], welcome to the first review of
-organic jelly beans on A Boy and His Beans!
+organic jelly beans on <cite>A Boy and His Beans</cite>!
 I've got four more bags of organic beans in the queue, too,
 so if that's your thing, stay tuned for more.
 

@@ -26,7 +26,7 @@ but this is by far the worst I've seen.
 I decided I had to take my first ever original photo for the site
 to prove I'm not being hyperbolic.
 
-<img src="static/img/black-forest_sorted.jpg"
+<img src="/static/img/black-forest_sorted.jpg"
      alt="Black Forest Organic Jelly Beans sorted by flavor">
 
 As you can see, this 9 oz. bag came with literally _two_ raspberry beans,

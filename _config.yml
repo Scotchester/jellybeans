@@ -56,7 +56,7 @@ navigation:
 brand_color: '#639'
 
 # Jekyll plugins
-gems:
+plugins:
   - jemoji
   - jekyll-feed
 

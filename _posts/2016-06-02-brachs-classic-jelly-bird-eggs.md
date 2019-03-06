@@ -12,7 +12,7 @@ image-layout: float
 
 Live from Amtrak's [Empire Builder](https://www.amtrak.com/empire-builder-train)
 line, somewhere in North Dakota, it's the next jelly bean review from
-_A Boy and His Beans_!
+<cite>A Boy and His Beans</cite>!
 
 As a friend told me when he brought some of these beans to me for review,
 Brach's Classic Jelly Bird Eggs are the kind of jelly beans that
