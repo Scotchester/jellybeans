@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Teenee Beanee Island Breeze"
+title: "Teenee Beanee: Island Breeze"
 brand: Teenee Beanee
 variety: Island Breeze
 date: 2018-03-25
@@ -139,7 +139,7 @@ and then today went 4/5/4.
 I'm not sure of if my preferences have shifted slightly
 over the past dozen reviews or I'm just incapable of
 being consistent over that period of time,
-but regardless, Teeenee Beanee jelly beans are a great product
+but regardless, Teenee Beanee jelly beans are a great product
 that I can recommend without reservation.
 
 

@@ -37,7 +37,7 @@ with their size, shape, and chewability that I will refer you
 to my past Jelly Belly reviews
 ([Snapple](/jelly-belly-snapple),
 [Sours](/jelly-belly-sours), and
-[Soda Pop Shoppe](/jelly-belly-soday-pop-shoppe))
+[Soda Pop Shoppe](/jelly-belly-soda-pop-shoppe))
 for details on those categories.
 
 
