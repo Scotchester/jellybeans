@@ -82,10 +82,10 @@ you know the score I'll be giving to the texture here:
     <h3>Flavors</h3>
     <ul class="emoji-list">
         <li>:strawberry: Savannah Strawberry</li>
-        <li>:tennis: Laredo Lime</li>
+        <li>:green_heart: Laredo Lime</li>
         <li>:cherries: Chesapeake Cherry</li>
         <li>:grapes: Napa Grape</li>
-        <li>:tangerine: Indian River Orange</li>
+        <li>:orange: Indian River Orange</li>
         <li>:lemon: La Jolla Lemon</li>
     </ul>
     <p>

@@ -78,8 +78,8 @@ The insides are impeccable. I love the Just Born jelly bean insides formula.
         <li>:strawberry: :banana: Cabana Strawbana</li>
         <li>:tropical_drink: Caribbean Punch</li>
         <li>:pineapple: :banana: Kauai Pineapple Banana</li>
-        <li>:rugby_football: :tennis: St. Kitt's Kiwi Lime</li>
-        <li>:tangerine: :pineapple: Martinique Orange Pineapple</li>
+        <li>:kiwi_fruit: :green_heart: St. Kitt's Kiwi Lime</li>
+        <li>:orange: :pineapple: Martinique Orange Pineapple</li>
     </ul>
 </div>
 

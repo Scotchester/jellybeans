@@ -65,7 +65,7 @@ The insides are just right.
     <ul class="emoji-list">
         <li>:lemon: Lemon</li>
         <li>:green_apple: Green Apple</li>
-        <li>:tangerine: Orange</li>
+        <li>:orange: Orange</li>
         <li>:strawberry: Strawberry</li>
         <li>:cherries: Cherry</li>
         <li>:grapes: Grape</li>

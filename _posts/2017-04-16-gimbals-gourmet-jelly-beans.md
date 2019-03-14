@@ -82,9 +82,9 @@ There is minimal sticking to the teeth.
     <ul class="emoji-list">
         <li>:boy: :boy: :grapes: Boysenberry</li>
         <li>:cherries: Wild Cherry</li>
-        <li>:small_orange_diamond: :boom: :corn: Buttered Popcorn</li>
-        <li>:custard: Tiramisu</li>
-        <li>:rugby_football: :strawberry: Kiwi Strawberry Smoothie</li>
+        <li>:popcorn: Buttered Popcorn</li>
+        <li>:coffee: :custard: :cake: Tiramisu</li>
+        <li>:kiwi_fruit: :strawberry: Kiwi Strawberry Smoothie</li>
         <li>:strawberry: :tropical_drink: Strawberry Daiquiri</li>
         <li>:watermelon: Watermelon</li>
         <li>:fr: :ice_cream: French Vanilla</li>
@@ -100,21 +100,21 @@ There is minimal sticking to the teeth.
         <li>:apple: Red Delicious</li>
         <li>:candy: Bubble Gum</li>
         <li>:cocktail: Baja Margarita</li>
-        <li>:tangerine: :baby_bottle: Orange 'n Créme</li>
+        <li>:orange: :milk_glass: Orange 'n Créme</li>
         <li>:tangerine: Tangerine</li>
         <li>:fire: Spicy Cinnamon</li>
         <li>:eggplant: :fish_cake: Superfruit Fusion</li>
         <li>:palm_tree: Coconut</li>
-        <li>:gem: Verry Blue</li>
+        <li>:gem: Very Blue</li>
         <li>:wavy_dash: Licorice</li>
-        <li>:heart: Raspberry</li>
+        <li>:stuck_out_tongue_closed_eyes: Raspberry</li>
         <li>:palm_tree: :pineapple: :tropical_drink: Piña Colada</li>
         <li>:beer: Root Beer</li>
         <li>:melon: Mango</li>
         <li>:dango: Cotton Candy</li>
         <li>:peach: Peach</li>
         <li>:coffee: Java</li>
-        <li>:tennis: Key Lime</li>
+        <li>:green_heart: Key Lime</li>
         <li>:pineapple: Pineapple</li>
         <li>:anger: :cherries: Sour Cherry</li>
         <li>:tropical_drink: :punch: Fruit Punch</li>

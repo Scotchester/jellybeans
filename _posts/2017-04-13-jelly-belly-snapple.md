@@ -100,7 +100,7 @@ without feeling grainy.
     <h3>Flavors</h3>
     <ul class="emoji-list">
         <li>:tropical_drink: Fruit Punch</li>
-        <li>:rugby_football: :strawberry: Kiwi Strawberry</li>
+        <li>:kiwi_fruit: :strawberry: Kiwi Strawberry</li>
         <li>:melon: Mango Madness</li>
         <li>:tomato: :heart: Cranberry Raspberry</li>
         <li>:lemon: Pink Lemonade</li>

@@ -59,7 +59,7 @@ Fortunately, they are very unlikely to stick to your teeth.
         <li>:strawberry: Strawberry</li>
         <li>:peach: White Grape Peach</li>
         <li>:heart: Raspberry</li>
-        <li>:tangerine: Orange</li>
+        <li>:orange: Orange</li>
     </ul>
 </div>
 

@@ -46,7 +46,7 @@ Jelly Belly is just so consistent, they're not worth rehashing here.
 <div class="inset">
     <h3>Flavors</h3>
     <ul class="emoji-list">
-        <li>:tangerine: Orange Crush</li>
+        <li>:orange: Orange Crush</li>
         <li>:beer: A&W Root Beer</li>
         <li>:syringe: Dr. Pepper</li>
         <li>:green_heart: 7 Up</li>

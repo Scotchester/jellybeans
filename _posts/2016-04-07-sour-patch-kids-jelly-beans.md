@@ -64,7 +64,7 @@ The quality of both the shell texture and the inside texture is above average.
     <h3>Flavors</h3>
     <ul class="emoji-list">
         <li>:heart: Red</li>
-        <li>:tangerine: Orange</li>
+        <li>:orange: Orange</li>
         <li>:green_heart: Green</li>
         <li>:lemon: Lemon</li>
     </ul>

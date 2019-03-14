@@ -74,7 +74,7 @@ have the shell breaking up all around, but it's not a serious issue.
     <h3>Flavors</h3>
     <ul class="emoji-list">
         <li>:grapes: Grape</li>
-        <li>:tangerine: Orange</li>
+        <li>:orange: Orange</li>
         <li>:strawberry: Strawberry</li>
         <li>:lemon: Lemon</li>
         <li>:green_heart: Green</li>

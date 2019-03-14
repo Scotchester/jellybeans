@@ -64,7 +64,7 @@ which almost melt away. It's just not working for me.
     <h3>Flavors</h3>
     <ul class="emoji-list">
         <li>:strawberry: Strawberry</li>
-        <li>:tangerine: Orange</li>
+        <li>:orange: Orange</li>
         <li>:lemon: Lemon</li>
         <li>:grapes: Grape</li>
         <li>:yellow_heart: Grapefruit</li>

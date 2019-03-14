@@ -69,7 +69,7 @@ but it's not enough to significantly diminish the experience.
 <div class="inset">
     <h3>Flavors</h3>
     <ul class="emoji-list">
-        <li>:strawberry: Strawberry Cheesecake</li>
+        <li>:cake: Strawberry Cheesecake</li>
         <li>:peach: Peaches & Cream</li>
         <li>:large_blue_circle: Blueberry Cobbler</li>
         <li>:apple: Apple Dumpling à la Mode</li>

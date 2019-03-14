@@ -95,7 +95,7 @@ contributing some moisture to the whole situation.
         <li>:cherries: Cherry</li>
         <li>:strawberry: Strawberry</li>
         <li>:blue_heart: Raspberry</li>
-        <li>:tennis: Lime</li>
+        <li>:green_heart: Lime</li>
     </ul>
 </div>
 

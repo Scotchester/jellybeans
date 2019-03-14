@@ -79,9 +79,9 @@ I won't go so far as to call them grainy or mealy, but not smooth enough.
     <h3>Flavors</h3>
     <ul class="emoji-list">
         <li>:strawberry: Strawberry</li>
-        <li>:tangerine: Orange</li>
+        <li>:orange: Orange</li>
         <li>:lemon: Lemon</li>
-        <li>:tennis: Lime</li>
+        <li>:green_heart: Lime</li>
         <li>:cherries: Cherry</li>
         <li>:grapes: Grape</li>
     </ul>

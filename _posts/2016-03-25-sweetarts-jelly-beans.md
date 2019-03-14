@@ -64,7 +64,7 @@ These beans are a triumph of jelly bean texture.
         <li>:cherries: Cherry</li>
         <li>:green_apple: Green Apple</li>
         <li>:lemon: Lemon</li>
-        <li>:tangerine: Orange</li>
+        <li>:orange: Orange</li>
         <li>:grapes: Grape</li>
         <li>:punch: Blue Punch</li>
     </ul>

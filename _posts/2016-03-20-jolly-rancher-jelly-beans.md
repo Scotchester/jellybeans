@@ -59,7 +59,7 @@ Not so much that it puts me off eating them, but it's noticeable.
     <h3>Flavors</h3>
     <ul class="emoji-list">
         <li>:strawberry: Strawberry</li>
-        <li>:tangerine: Orange</li>
+        <li>:orange: Orange</li>
         <li>:blue_heart: Blue Raspberry</li>
         <li>:watermelon: Watermelon</li>
         <li>:grapes: Grape</li>

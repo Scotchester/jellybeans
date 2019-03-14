@@ -67,12 +67,12 @@ but I do tend to prefer something with a little more tackiness to it.
 <div class="inset">
     <h3>Flavors</h3>
     <ul class="emoji-list">
-        <li>:tangerine: Orange</li>
+        <li>:orange: Orange</li>
         <li>:grapes: Grape</li>
         <li>:lemon: Lemon</li>
         <li>:pineapple: Pineapple</li>
         <li>:strawberry: Strawberry</li>
-        <li>:tennis: Lime</li>
+        <li>:green_heart: Lime</li>
         <li>:cherries: Cherry</li>
     </ul>
 </div>

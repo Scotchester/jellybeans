@@ -73,8 +73,8 @@ The insides are very pleasantly smooth.
     <ul class="emoji-list">
         <li>:pineapple: Pineapple</li>
         <li>:lemon: Lemon</li>
-        <li>:tennis: Lime</li>
-        <li>:tangerine: Orange</li>
+        <li>:green_heart: Lime</li>
+        <li>:orange: Orange</li>
         <li>:strawberry: Strawberry</li>
         <li>:cherries: Cherry</li>
         <li>:grapes: Grape</li>

@@ -62,7 +62,7 @@ These beans are equally deserving of the 4 I gave to those first two.
     <h3>Flavors</h3>
     <ul class="emoji-list">
         <li>:strawberry: Strawberry</li>
-        <li>:tangerine: Orange Sherbet</li>
+        <li>:orange: Orange Sherbet</li>
         <li>:heart: Red Raspberry</li>
         <li>:lemon: Lemon Sorbet</li>
     </ul>

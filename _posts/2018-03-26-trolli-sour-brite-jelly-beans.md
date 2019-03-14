@@ -72,7 +72,7 @@ so I rate this as a slight improvement.
     <ul class="emoji-list">
         <li>:green_apple: Green Apple</li>
         <li>:lemon: Lemon</li>
-        <li>:tangerine: Orange</li>
+        <li>:orange: Orange</li>
         <li>:strawberry: Strawberry</li>
         <li>:cherries: Cherry</li>
         <li>:blue_heart: Raspberry</li>

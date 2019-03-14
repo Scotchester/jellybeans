@@ -87,7 +87,7 @@ but still, this is a very solid category for Black Forest.
         <li>:lemon: Lemon</li>
         <li>:strawberry: Strawberry</li>
         <li>:cherries: Cherry</li>
-        <li>:tangerine: Orange</li>
+        <li>:orange: Orange</li>
         <li>:purple_heart: Raspberry</li>
     </ul>
 </div>

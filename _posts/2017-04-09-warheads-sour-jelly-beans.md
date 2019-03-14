@@ -85,7 +85,7 @@ The somewhat mealy insides are nothing to write home about, either.
         <li>:lemon: Lemon</li>
         <li>:green_apple: Green Apple</li>
         <li>:cherries: Cherry</li>
-        <li>:tangerine: Orange</li>
+        <li>:orange: Orange</li>
         <li>:watermelon: Watermelon</li>
     </ul>
 </div>

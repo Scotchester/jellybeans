@@ -57,7 +57,7 @@ It is perfect.
     <h3>Flavors</h3>
     <ul class="emoji-list">
         <li>:cherries: Cherry</li>
-        <li>:tangerine: Orange</li>
+        <li>:orange: Orange</li>
         <li>:lemon: Lemon</li>
         <li>:green_apple: Green Apple</li>
         <li>:grapes: Grape</li>
