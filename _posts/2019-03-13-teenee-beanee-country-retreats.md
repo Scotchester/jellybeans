@@ -135,7 +135,7 @@ And so we wrap up our tour of Teenee Beanee's Delicious Destinations.
 but a package with only one flavor would not make for an interesting review.)
 I appreciate the effort they've gone to in devising this marketing conceit,
 and they are a very high quality bean in the technical categories,
-but I can't see myself buying another paackage of anything but the
+but I can't see myself buying another package of anything but the
 [Americana Medley](/teenee-beanee-americana-medley) in the future.
 
 
