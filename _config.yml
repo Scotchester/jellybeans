@@ -48,9 +48,6 @@ navigation:
     path: about/
     internal: true
     slug: about
-  - label: Amazon List
-    url: https://www.amazon.com/gp/registry/wishlist/36YXMMNMA3W5D/
-    internal: false
 
 # Style Variables
 brand_color: '#639'
@@ -62,4 +59,4 @@ plugins:
 
 # Offline caching
 offline_cache: true
-cache_name: jellybeans-v1.39
+cache_name: jellybeans-v1.40
