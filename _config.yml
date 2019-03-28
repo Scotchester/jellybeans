@@ -59,4 +59,4 @@ plugins:
 
 # Offline caching
 offline_cache: true
-cache_name: jellybeans-v1.40
+cache_name: jellybeans-v1.41
