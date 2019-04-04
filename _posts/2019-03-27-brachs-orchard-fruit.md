@@ -6,7 +6,7 @@ variety: Orchard Fruit Jelly Beans
 date: 2019-03-27
 permalink: brachs-orchard-fruit-jelly-beans
 image: brachs-orchard-fruit-jelly-beans.jpg
-image-credit: Amazon.com
+image-credit: CandyCrate.com
 image-layout: float
 ---
 

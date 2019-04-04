@@ -58,5 +58,5 @@ plugins:
   - jekyll-feed
 
 # Offline caching
-offline_cache: true
+offline_cache: false
 cache_name: jellybeans-v1.41
