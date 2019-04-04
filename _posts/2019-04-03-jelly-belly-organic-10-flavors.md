@@ -2,7 +2,7 @@
 layout: post
 title: "Jelly Belly Organic Jelly Beans: 10 Flavors"
 brand: Jelly Belly
-variety: Organic Jelly Beans: 10 Flavors
+variety: "Organic Jelly Beans: 10 Flavors"
 date: 2019-04-03
 permalink: jelly-belly-organic-10-flavors
 image: jelly-belly-organic-10-flavors.jpg
