@@ -64,7 +64,7 @@ As for the insides, they are pleasantly smooth.
 
 ## Taste and flavor
 
-div class="inset">
+<div class="inset">
     <h3>Flavors</h3>
     <ul class="emoji-list">
         <li>:grapes: Grape</li>
