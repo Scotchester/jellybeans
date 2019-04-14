@@ -88,18 +88,18 @@ As for the insides, they are pleasantly smooth.
     </ul>
 </div>
 
-A 18 flavors, this package is second only to
+At 18 flavors, this package is second only to
 [Gimbal's Gourmet Jelly Beans](/gimbals-gourmet-jelly-beans)
 in the number of flavors it contains.
 This is quite a nice assortment,
 without being as overwhelming as the Gimbal's offering.
 
-I as a bit disappointed to only get one Lemon bean,
+I was a bit disappointed to only get one Lemon bean,
 and some of the other colors took _very_ careful observation
 under perfect lighting circumstances to distinguish,
 but I've seen worse situations in both of those areas.
 
-The box claims that these 18 "natural" flavors,
+The box claims that these are 18 "natural" flavors,
 which I think is a generally meaningless claim;
 nonetheless, the flavors are all excellent.
 (Except Coconut, of course.)
