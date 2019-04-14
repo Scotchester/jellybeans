@@ -55,7 +55,7 @@ which will cost them a bean here.
 
 Chewability is the weak category for Jelly Belly.
 I find that they require a bit too much effort to chew.
-Interestingly, though, it's not that the shell is not too thick or hard,
+Interestingly, though, it's not that the shell is too thick or hard,
 which is the plight of most beans that are difficult to chew.
 In the case of Jelly Belly beans, it's really the insides
 that are very firm and offer the most resistance.
