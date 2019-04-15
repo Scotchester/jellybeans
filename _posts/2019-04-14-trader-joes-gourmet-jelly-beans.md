@@ -172,10 +172,6 @@ I'm sure other combinations of their beans would also work well together.
 
 ## Conclusion
 
-A solid outing for the first package of organic Jelly Belly jelly beans.
-I'm looking forward to the future sets with a more manageable flavor count,
-and hopefully no pairs of visually indistinguishable flavors.
-
 Category         | Score
 ---------------- | ---------------
 Size and shape   | **4**/5 beans
