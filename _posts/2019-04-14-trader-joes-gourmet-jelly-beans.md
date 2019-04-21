@@ -138,7 +138,7 @@ As with the Gimbal's bag, it would be totally impractical to try and eat
 one of each of these flavors here, even if removing Coconut and Licorice.
 I will do what I did in that Gimbal's review and
 select the six most common flavors I've come across in my reviews
-and each all of those at once.
+and eat all of those at once.
 
 Those six will be:
 
