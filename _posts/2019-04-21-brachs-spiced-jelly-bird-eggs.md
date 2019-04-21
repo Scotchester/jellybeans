@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Brach's Spiced Jelly Bird Eggs"
-brand: Brachs's
+brand: Brach's
 variety: Spiced Jelly Bird Eggs
 date: 2019-04-21
 permalink: brachs-spiced-jelly-bird-eggs
