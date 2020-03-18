@@ -3,7 +3,7 @@ layout: post
 title: "Welch’s Sour Jelly Beans"
 brand: Welch’s
 variety: Sour
-date: 2020-03-04
+date: 2020-03-11
 permalink: welchs-sour-jelly-beans
 image: welchs-sour-jelly-beans.jpg
 image-credit: Amazon.com
