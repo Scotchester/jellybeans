@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Brach's Giant Egg'Ruptions: Sour Juicy Filled Jumbo Jelly Beans"
-brand: Brach's
+title: "Brach’s Giant Egg’Ruptions: Sour Juicy Filled Jumbo Jelly Beans"
+brand: Brach’s
 variety: Giant Egg'Ruptions
 date: 2018-02-14
 permalink: brachs-giant-egg-ruptions

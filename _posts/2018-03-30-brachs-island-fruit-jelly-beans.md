@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Brach's Island Fruit Jelly Beans
-brand: Brach's
+title: Brach’s Island Fruit Jelly Beans
+brand: Brach’s
 variety: Island Fruit Jelly Beans
 date: 2018-03-30
 permalink: brachs-island-fruit-jelly-beans

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Gimbal's Gourmet Jelly Beans
-brand: Gimbal's
+title: Gimbal’s Gourmet Jelly Beans
+brand: Gimbal’s
 variety: Gourmet Jelly Beans
 date: 2017-04-16
 permalink: gimbals-gourmet-jelly-beans
@@ -94,7 +94,7 @@ There is minimal sticking to the teeth.
         <li>:lemon: :cloud: Lemon Meringue</li>
         <li>:shaved_ice: Tutti Frutti</li>
         <li>:green_apple: Green Apple</li>
-        <li>:tangerine: Pink Grapefruit</li>
+        <li>:heart: Pink Grapefruit</li>
         <li>:tomato: Pomegranate</li>
         <li>:icecream: :birthday: Ice Cream Cake</li>
         <li>:apple: Red Delicious</li>

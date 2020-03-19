@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Brach's Orchard Fruit Jelly Beans"
-brand: Brach's
+title: "Brach’s Orchard Fruit Jelly Beans"
+brand: Brach’s
 variety: Orchard Fruit Jelly Beans
 date: 2019-03-27
 permalink: brachs-orchard-fruit-jelly-beans

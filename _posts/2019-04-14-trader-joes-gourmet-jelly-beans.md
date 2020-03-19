@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Trader Joe's Gourmet Jelly Beans"
-brand: Trader Joe's
+title: "Trader Joe’s Gourmet Jelly Beans"
+brand: Trader Joe’s
 variety: Gourmet Jelly Beans
 date: 2019-04-14
 permalink: trader-joes-gourmet-jelly-beans
@@ -81,7 +81,7 @@ As for the insides, they are pleasantly smooth.
         <li>:green_apple: Apple</li>
         <li>:wavy_dash: Licorice</li>
         <li>:banana: :ice_cream: Banana Split</li>
-        <li>:tangerine: Pink Grapefruit</li>
+        <li>:heart: Pink Grapefruit</li>
         <li>:cherries: Cherry</li>
         <li>:eggplant: Passion Fruit</li>
         <li>:large_blue_circle: Blueberry</li>

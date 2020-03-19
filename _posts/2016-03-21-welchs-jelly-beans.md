@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welch's Jelly Beans
+title: Welch’s Jelly Beans
 variety:
 date: 2016-03-21
 permalink: welchs-jelly-beans
