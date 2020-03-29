@@ -6,7 +6,7 @@ variety: Krispy Kreme
 date: 2020-03-28
 permalink: jelly-belly-krispy-kreme
 image: jelly-belly-krispy-kreme.jpg
-image-credit: JellyBelly.com
+image-credit: MastGeneralStore.com
 image-layout: float
 ---
 
