@@ -3,7 +3,7 @@ layout: post
 title: "Starburst Jelly Beans: Duos"
 brand: Starburst
 variety: Duos
-date: 2020-03-28
+date: 2020-04-05
 permalink: starburst-duos
 image: starburst-duos.jpg
 image-credit: Walmart.com
@@ -16,7 +16,7 @@ following the Jumbo edition reviewed for our season premiere, we're back
 with a regular-sized ~~[Rudy](https://www.youtube.com/watch?v=n1ocowifCQY)~~
 Starburst Jelly Beans review!
 Duos has a big "2 flavors in 1" tagline on it,
-which reminds me of the Starburst Crazy Beans set, which
+which reminds me of the Starburst Crazy Beans set that
 [I reviewed in 2017](/starburst-crazy-beans).
 I wonder what the difference between these two offerings is.
 
