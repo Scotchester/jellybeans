@@ -47,7 +47,7 @@ I'm very satisfied with the chewability.
 
 The most notable thing about the texture of these jelly beans is that
 they have a powder coating that is very similar to
-[Sour Patch Kids Jelly Beans](/sour-patch-kids-jelly-beans#texture)
+[Sour Patch Kids Jelly Beans](/sour-patch-jelly-beans#texture)
 that seems to be the source of the sour aspect of the flavor.
 In the Sour Patch review, I didn't mind this coating and the matte finish
 that it creates, but four years later, I'm less enthusiastic about it.
@@ -86,7 +86,7 @@ Lukewarm lemon aside, the overall sourness is great.
 Despite the problem that the coating creates for the texture,
 it is quite effective at amping up the sourness of these jelly beans.
 It's notable how well it works here,
-[given how ineffectual the same technique was for the Sour Patch Kids Jelly Beans](/sour-patch-kids-jelly-beans#taste-and-flavor).
+[given how ineffectual the same technique was for the Sour Patch Kids Jelly Beans](/sour-patch-jelly-beans#taste-and-flavor).
 
 **8 out of 10 beans**
 
