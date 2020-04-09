@@ -3,7 +3,7 @@ layout: post
 title: "Brach’s Purple Rain Tiny Jelly Bird Eggs"
 brand: Brach’s
 variety: "Purple Rain Tiny Jelly Bird Eggs"
-date: 2020-04-07
+date: 2020-04-08
 permalink: brachs-purple-rain-tiny-jelly-bird-eggs
 image: brachs-purple-rain-tiny-jelly-bird-eggs.jpg
 image-credit: EliteDaily.com
