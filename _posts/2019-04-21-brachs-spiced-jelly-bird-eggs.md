@@ -46,7 +46,7 @@ and review them.
 I couldn’t find any.
 
 Well, I did, but they aren’t called jelly “beans” on the packaging.
-They’re called “eggs.”
+They’re called “eggs”.
 And not just eggs, oh no: Jelly _Bird_ Eggs,
 from BRACH*S, which bills itself as “America’s Candy Maker”.
 And they _are_ America’s Candy Maker,
