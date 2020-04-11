@@ -347,17 +347,17 @@ _Total_          | **27**/35 beans
 
 ---
 
-[^1]: Later I discovered that the flavors were indeed printed on the back, along with their corresponding color, but it was wedged up in a corner, isolated from the rest of the bag by the nutrition information panel, as if this was something they only revealed in an embarrassed, grudging way. It was so small that I had ripped through it opening up the bag.
-
-[^2]: He passed on Black Jack. “Tastes like anise,” he said. “You’re still pronouncing it wrong,” I said. “No, I’m still not,” he replied.
-
-[^3]: Which is how I discovered the flavor list I missed from the first bag.
-
-
----
-
 Another epic and hilarious review from Penny (and Fred)!
 I'm very glad that they found these beans much more enjoyable
 than the Brach's from last year.
 I'm actually not immediately aware of any other common spice bean brands,
 so if you know what we should look out for next year, let us know!
+
+
+---
+
+[^1]: Later I discovered that the flavors were indeed printed on the back, along with their corresponding color, but it was wedged up in a corner, isolated from the rest of the bag by the nutrition information panel, as if this was something they only revealed in an embarrassed, grudging way. It was so small that I had ripped through it opening up the bag.
+
+[^2]: He passed on Black Jack. “Tastes like anise,” he said. “You’re still pronouncing it wrong,” I said. “No, I’m still not,” he replied.
+
+[^3]: Which is how I discovered the flavor list I missed from the first bag.
