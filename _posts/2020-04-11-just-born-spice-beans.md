@@ -49,7 +49,7 @@ But as we worked through the bag, some radical abnormalities appeared,
 ranging from a lentil-sized pink bean, and up to a caterpillar-sized yellow one.
 Both tasted okay, tho.
 
-![A handful of Just Born spice-flavored jelly beans on a table]({{ site.url }}/static/img/just_born-spice_shape.jpg)
+![A handful of Just Born spice-flavored jelly beans on a table]({{ site.url }}/static/img/just-born-spice_shape.jpg)
 
 Shape was also a mixed bag.
 Even the ones with consistent sizes were not a smooth ovoid.
@@ -81,7 +81,7 @@ _[We do not allow half-bean ratings. –Ed.]_
 These beans were a pleasure to chew. Seriously. The bean crunched pleasantly,
 and didn’t stick to my teeth, meaning I did not need to use my tongue
 (or more extremely, my finger) to dislodge an errant bit of bean.
-Still, it was not as pleasant a chew as the better-known ‘gourmet’ beans,
+Still, it was not as pleasant a chew as the better-known “gourmet” beans,
 so my score reflects that.
 They lasted a fairly long time in my mouth and were not at all grainy.
 
@@ -112,7 +112,7 @@ but at least for this group of beans it’s one that I think needs addressing:
 Take a look at these beans. What do you see?
 More importantly, what DON’T you see?
 
-![A line of the five individual colors of beans in the package]({{ site.url }}/static/img/just_born-spice_color.jpg)
+![A line of the five individual colors of beans in the package]({{ site.url }}/static/img/just-born-spice_color.jpg)
 
 Variety. Vibrancy. An interesting mix of colors.
 Some BIV to accompany the ROY G. of this demirainbow.
@@ -196,7 +196,7 @@ It was vaguely familiar, so I took a stab at a flavor.
 “I think it’s supposed to be… _clove?_”
 
 <figure class="packaging-image packaging-image-float">
-    <img src="{{ site.url }}/static/img/brachs-spiced_gums.jpg"
+    <img src="{{ site.url }}/static/img/just-born-spice_gums.jpg"
          alt="Packaging for Black Jack, Beemans, and Clove chewing gums">
     <figcaption class="packaging-image-attribution">
         Image credit: eBay user pittsburghcandy
@@ -240,7 +240,7 @@ Like the taste of Pepto? You’ll like this.
 Not like the taste of Pepto? You’ll not like this.
 
 <figure class="packaging-image packaging-image-float">
-    <img src="{{ site.url }}/static/img/brachs-spiced_color-wheel.png"
+    <img src="{{ site.url }}/static/img/just-born-spice_color-wheel.png"
          alt="A color wheel diagram">
 </figure>
 
