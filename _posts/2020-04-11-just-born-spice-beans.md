@@ -242,6 +242,9 @@ Not like the taste of Pepto? You’ll not like this.
 <figure class="packaging-image packaging-image-float">
     <img src="{{ site.url }}/static/img/just-born-spice_color-wheel.png"
          alt="A color wheel diagram">
+    <figcaption class="packaging-image-attribution">
+        Image credit: dnljhn.wordpress.com
+    </figcaption>
 </figure>
 
 _(Wintergreen, of course. But why? Why is wintergreen always pink?
