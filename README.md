@@ -3,7 +3,7 @@
 A simple website cataloguing my reviews of one of my favorite classes of candy:
 jelly beans.
 
-View the site at [jellybeans.lol](http://jellybeans.lol)
+View the site at [jellybeans.lol](https://jellybeans.lol)
 
 
 ## To run the site locally

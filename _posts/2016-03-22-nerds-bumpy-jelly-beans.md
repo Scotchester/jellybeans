@@ -100,7 +100,7 @@ This two-stage taste experience is very much like the experience
 of eating traditional Nerds candy, which makes these beans a success.
 If you're going to create a line of jelly beans derived
 from an existing, well-known candy brand, you'd best ensure that
-the flavors remind you of that brand. 
+the flavors remind you of that brand.
 This is going to be a recurring theme throughout this series of reviews;
 this review makes two out of three that were based on an existing
 property, and there are quite a few more coming down the pike.
@@ -113,7 +113,7 @@ property, and there are quite a few more coming down the pike.
 Perhaps the ultimate test of a bag of jelly beans is how enjoyable it is
 to take one of each flavor and eat them all at the same time.[^1]
 
-As with the [Welch's Jelly Beans](http://jellybeans.lol/welchs-jelly-beans),
+As with the [Welch's Jelly Beans](/welchs-jelly-beans),
 a five-bean mouthful is easy to handle, in terms of volume,
 but the shell does somewhat increase the amount of chewing effort required.
 Weirdly, I find myself in the contradictory position of
