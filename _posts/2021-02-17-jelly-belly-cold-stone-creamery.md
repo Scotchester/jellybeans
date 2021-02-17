@@ -146,7 +146,7 @@ The strawberry, which was the only fruity or acidic note in the whole bag,
 gets completely overwhelmed.
 The mint barely hangs on, depending on where it lands on the teeth and tongue.
 
-It's not a bad eexperience to eat one of each together,
+It's not a bad experience to eat one of each together,
 but as noted before, I wish there were some more fruit elements
 or wild cards like peanut butter to round out the bag and the one-of-each test.
 
