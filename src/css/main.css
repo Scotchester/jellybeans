@@ -4,7 +4,7 @@
    ========================================================================== */
 
 @import 'normalize.css';
-@import 'system-font-css';
+@import 'system-font.css';
 @import 'variables.css';
 @import 'base.css';
 @import 'layout.css';

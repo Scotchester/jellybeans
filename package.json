@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "A website for reviewing jelly beans",
   "dependencies": {
-    "normalize.css": "3.0.3",
-    "system-font-css": "latest"
+    "normalize.css": "3.0.3"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.5",
