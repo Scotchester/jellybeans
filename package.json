@@ -3,24 +3,24 @@
   "version": "1.0.0",
   "description": "A website for reviewing jelly beans",
   "dependencies": {
-    "normalize.css": "3.0.3"
+    "normalize.css": "8.0.1"
   },
   "devDependencies": {
-    "autoprefixer": "^6.7.5",
-    "caniuse-db": "^1.0.30000628",
-    "cssnano": "^3.10.0",
-    "pixrem": "^3.0.2",
-    "postcss-cli": "^2.6.0",
-    "postcss-custom-properties": "^5.0.2",
-    "postcss-import": "^9.1.0",
-    "postcss-nested": "^1.0.0",
-    "webdrivercss": "^1.1.10",
-    "webdriverio": "^2.0.0"
+    "@percy/cli": "^1.0.0-beta.35",
+    "autoprefixer": "10.2.4",
+    "cssnano": "4.1.10",
+    "postcss": "8.2.6",
+    "postcss-cli": "8.3.1",
+    "postcss-import": "14.0.0",
+    "postcss-nested": "5.0.3"
   },
   "scripts": {
-    "test": "node test/test.js",
-    "postcss": "postcss --config postcss.json"
+    "percy": "percy snapshot percy-pages.yml",
+    "postcss": "postcss src/css/main.css -o static/css/main.min.css --verbose -w"
   },
+  "browserslist": [
+    "defaults"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Scotchester/jellybeans.git"

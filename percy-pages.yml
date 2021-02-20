@@ -1,0 +1,26 @@
+- name: Homepage
+  url: http://localhost:4000/
+  # Examples for potential future use
+  # waitForTimeout: 1000
+  # waitForSelector: .some-element
+
+- name: About page
+  url: http://localhost:4000/about/
+
+- name: First review
+  url: http://localhost:4000/jolly-rancher-jelly-beans
+
+- name: Halloween special
+  url: http://localhost:4000/just-born-jelly-beans
+
+- name: Season 2 finale
+  url: http://localhost:4000/gimbals-gourmet-jelly-beans
+
+- name: First self-taken photo
+  url: http://localhost:4000/black-forest-organic-jelly-beans
+
+- name: King of the Hill
+  url: http://localhost:4000/trader-joes-gourmet-jelly-beans
+
+- name: Penny’s epic Just Born Spice review
+  url: http://localhost:4000/just-born-spice-beans
