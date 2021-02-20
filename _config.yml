@@ -2,14 +2,17 @@
 exclude:
   - node_modules
   - src
-  - test
   - .gitignore
+  - .ruby-version
+  - CNAME
   - CONTRIBUTING.md
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - package.json
-  - postcss.json
+  - package-lock.json
+  - percy-pages.yml
+  - postcss.config.js
   - README.md
   - TERMS.md
 markdown: kramdown
@@ -56,7 +59,3 @@ brand_color: '#639'
 plugins:
   - jemoji
   - jekyll-feed
-
-# Offline caching
-offline_cache: false
-cache_name: jellybeans-v1.41
