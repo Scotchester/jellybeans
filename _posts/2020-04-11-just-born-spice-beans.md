@@ -3,7 +3,7 @@ layout: post
 title: "Just Born Jelly Beans: Spice Flavored"
 brand: Just Born
 variety: Spice Flavored
-date: 2019-04-21
+date: 2020-04-11
 permalink: just-born-spice-beans
 image: just-born-spice-beans.jpg
 image-credit: ShelburneCountryStore.com
