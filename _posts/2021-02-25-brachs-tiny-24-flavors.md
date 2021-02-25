@@ -14,9 +14,9 @@ image-layout: float
 The Brach’s brand continues to surprise and mystify me.
 It's been a wild ride of ups
 ([Island Fruit](/brachs-island-fruit-jelly-beans) and
-[Orchard Fruit](/brachs-orchard-fruit) Jelly _Beans_),
+[Orchard Fruit](/brachs-orchard-fruit-jelly-beans) Jelly _Beans_),
 downs ([Classic](/brachs-classic-jelly-bird-eggs),
-[Speckled](/brachs-classic-jelly-bird-eggs), and
+[Speckled](/brachs-speckled-jelly-bird-eggs), and
 [Spiced](/brachs-spiced-jelly-bird-eggs) Jelly _Bird Eggs_),
 and all-arounds ([Purple Rain](/brachs-purple-rain-tiny-jelly-bird-eggs) and
 [Fruit Fusions](/brachs-fruit-fusions-tiny-jelly-bird-eggs)
@@ -75,6 +75,8 @@ these are more on the granulated sugar end of the spectrum.
 
 **3 out of 5 beans**
 
+<img src="/static/img/brachs-tiny-24-flavors_sorted.jpg"
+     alt="Brach’s Tiny 24-Flavor Jelly Beans, sorted by flavor">
 
 ## Taste and flavor
 
@@ -100,7 +102,7 @@ these are more on the granulated sugar end of the spectrum.
         <li>:pineapple: Pineapple</li>
         <li>:hotsprings: Cinnamon Bun</li>
         <li>:peach: Peach</li>
-        <li>:candy:</li> Bubble Gum
+        <li>:candy: Bubble Gum</li>
         <li>:large_blue_circle: Blueberry</li>
         <li>:beer: Root Beer</li>
         <li>:pear: Pear</li>
@@ -113,9 +115,6 @@ There are some rather unique standouts,
 like Angel Food Cake, Coffee, Cinnamon Bun, and Bubble Gum.
 There are also the requisite Jelly Belly copycats, particularly Butter Popcorn
 and Root Beer.
-
-<img src="/static/img/brachs-tiny-24-flavors_sorted.jpg"
-     alt="Brach’s Tiny 24-Flavor Jelly Beans, sorted by flavor">
 
 As with many collections with so many flavors, it seems difficult for them
 to package a distribution even approaching balanced.
