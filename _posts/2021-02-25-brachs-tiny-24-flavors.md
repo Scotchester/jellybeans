@@ -143,7 +143,7 @@ but I can't fault Brach’s too much for being true to their brand in that way.
 Perhaps the ultimate test of a bag of jelly beans is how enjoyable it is
 to take one of each flavor and eat them all at the same time.[^1]
 
-_(You've remember the footnote before, right?
+_(You remember the footnote, right?
   If not, now would be the time to refresh your memory.)_
 
 The package is roughly split between fruit and non-fruit flavors,
