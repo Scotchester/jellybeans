@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Waterbridge Gourmet Jelly Beans"
+title: "Waterbridge Gourmet Jelly Beans"
 brand: Waterbridge
 variety: Gourmet Jelly Beans
 date: 2021-03-05
@@ -63,10 +63,10 @@ The insides are also pleasantly smooth, like the Just Borns.
 
 **4 out of 5 beans**
 
+## Taste and flavor
+
 <img src="/static/img/waterbridge-gourmet-jelly-beans_sorted.jpg"
      alt="Waterbridge Gourmet Jelly Beans, sorted by flavor">
-
-## Taste and flavor
 
 <div class="inset">
     <h3>Flavors</h3>

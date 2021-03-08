@@ -75,10 +75,10 @@ these are more on the granulated sugar end of the spectrum.
 
 **3 out of 5 beans**
 
+## Taste and flavor
+
 <img src="/static/img/brachs-tiny-24-flavors_sorted.jpg"
      alt="Brach’s Tiny 24-Flavor Jelly Beans, sorted by flavor">
-
-## Taste and flavor
 
 <div class="inset">
     <h3>Flavors</h3>
