@@ -3,7 +3,7 @@ layout: post
 title: "Waterbridge Gourmet Jelly Beans"
 brand: Waterbridge
 variety: Gourmet Jelly Beans
-date: 2021-03-05
+date: 2021-03-08
 permalink: waterbridge-gourmet-jelly-beans
 image: waterbridge-gourmet-jelly-beans.jpg
 image-credit: CandyFunhouse.ca
