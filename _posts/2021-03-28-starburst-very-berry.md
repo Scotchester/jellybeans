@@ -132,9 +132,9 @@ One-of-each test | **8**/10 beans
 ---------------- | ---------------
 _Total_          | **26**/35 beans
 
-Another year, another solid effort for Starbucks.
+Another year, another solid effort for Starburst.
 I hope they come with something a little more interesting next year,
-but if you're a Starbucks bean devotee,
+but if you're a Starburst bean devotee,
 these are a worthy addition to the rotation.
 
 
