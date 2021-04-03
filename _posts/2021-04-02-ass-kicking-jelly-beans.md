@@ -123,8 +123,8 @@ But mixed in with the heat, the citrus continued, adding some depth to the heat,
 
 The lime bean had that distinct lime bitterness that didn’t overpower the sweet, and the orange had almost a creamsicle taste to it. Both battled back well against the habanero onslaught, and the flavor continued throughout the experience. Of the three, the orange bean fared the worst, but it was the least citrus-y of the beans. It was that sharpness that cut through the heat.
 
-**Lemon: 7 beans**
-**Lime: 7 beans**
+**Lemon: 7 beans**  
+**Lime: 7 beans**  
 **Orange: 6 beans**
 
 ### Red bean (cherry)
@@ -236,6 +236,6 @@ _Total_          | **26**/35 beans
 
 ---
 
-[^1] I gotta say, Bizarro Universe seems better than the universe we’re in. Which makes me wonder if _this_ is actually the Bizarro Universe.
+[^1]: I gotta say, Bizarro Universe seems better than the universe we’re in. Which makes me wonder if _this_ is actually the Bizarro Universe.
 
-[^2] This really was a huge black eye for the Grammys, but the only reason you don’t know too much about it is because that was also the year that Milli Vanilli won Grammys for songs they didn’t even sing. They were just two cute boys who looked good dancing.
+[^2]: This really was a huge black eye for the Grammys, but the only reason you don’t know too much about it is because that was also the year that Milli Vanilli won Grammys for songs they didn’t even sing. They were just two cute boys who looked good dancing.
