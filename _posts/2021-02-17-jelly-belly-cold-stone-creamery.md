@@ -35,11 +35,8 @@ and the flavors in this pack are based on Cold Stone's own
 
 As before, because Jelly Belly beans are so amazingly consistent
 in their size, shape, chewability, and texture,
-I will refer you to past Jelly Belly reviews
-([Snapple](/jelly-belly-snapple),
-[Sours](/jelly-belly-sours),
-[Soda Pop Shoppe](/jelly-belly-soda-pop-shoppe), and
-[Krispy Kreme](/jelly-belly-krispy-kreme))
+I will refer you to my reviews of
+Jelly Belly [Snapple](/jelly-belly-snapple) and [Sours](/jelly-belly-sours)
 for details on those categories.
 
 

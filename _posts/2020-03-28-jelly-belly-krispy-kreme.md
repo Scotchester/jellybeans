@@ -28,18 +28,10 @@ I'm definitely interested to see how well these beans replicate that flavor.
 ---
 
 As with other recent Jelly Belly reviews, they are so amazingly consistent
-with their size, shape, chewability, and texture that I will refer you
-to some past Jelly Belly reviews
-([Snapple](/jelly-belly-snapple),
-[Sours](/jelly-belly-sours), and
-[Soda Pop Shoppe](/jelly-belly-soda-pop-shoppe))
+with their size, shape, chewability, and texture
+that I will refer you to my reviews of
+Jelly Belly [Snapple](/jelly-belly-snapple) and [Sours](/jelly-belly-sours)
 for details on those categories.
-
-(Left off that list is the most recent Jelly Belly review I did,
-their [Justice League](/jelly-belly-justice-league) package,
-which had identical size, shape, and chewability,
-but a bit of a different texture,
-due to the attempt to make them "sparkling" flavors.)
 
 
 ## Size and shape

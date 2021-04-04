@@ -32,12 +32,10 @@ Will they live up to that hype? Read on.
 
 ---
 
-As with other recent Jelly Belly reviews, they are so amazingly consistent
-with their size, shape, and chewability that I will refer you
-to my past Jelly Belly reviews
-([Snapple](/jelly-belly-snapple),
-[Sours](/jelly-belly-sours), and
-[Soda Pop Shoppe](/jelly-belly-soda-pop-shoppe))
+As with the Jelly Belly [Soda Pop Shoppe](/jelly-belly-soda-pop-shoppe) review,
+Jelly Belly beans are so amazingly consistent in their size, shape,
+and chewability that I will refer you to my reviews of
+Jelly Belly [Snapple](/jelly-belly-snapple) and [Sours](/jelly-belly-sours)
 for details on those categories.
 
 
