@@ -3,7 +3,7 @@ layout: post
 title: "Ass Kickin’ Jelly Beans"
 brand:
 variety:
-date: 2021-04-02
+date: 2021-04-03
 permalink: ass-kickin-jelly-beans
 image: ass-kickin-jelly-beans.jpg
 image-credit: HotSauce.com
