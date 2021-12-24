@@ -113,7 +113,7 @@ to even out the sweeter flavors.
 ## Conclusion
 
 This is not quite as successful as some of the Jelly Belly themed collections,
-but it's definitely a worthy set to put out to much on during the holidays.
+but it's definitely a worthy set to put out to munch on during the holidays.
 
 Category         | Score
 ---------------- | ---------------
