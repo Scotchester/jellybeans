@@ -19,7 +19,7 @@ They're a quintessential Halloween candy,
 but not something I would pick up on a whim to satisfy a needy sweet tooth.
 
 Skittles themselves are pretty close to jelly beans,
-though they are a big chewier.
+though they are a bit chewier.
 It'll be interesting to see how the beans differ from the originals.
 
 I conducted this review in the company of my dear friend of over 30 years,
