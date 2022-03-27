@@ -24,7 +24,7 @@ but they do, of course, have a jelly bean offering, and
 On dumping out the package, the incredibly precise and consistent
 bean shape is immediately apparent.
 They are longer than most, with a glorious dimple.
-There is practically _no_ perceiptible variation in size or shape,
+There is practically _no_ perceptible variation in size or shape,
 which is really impressive.
 
 The only reason I can't give this category a perfect score is that
@@ -118,7 +118,7 @@ the flavors meld together exceptionally well!
 Individuality is retained, and there is brightness without overwhelming acidity.
 
 With a fresh package, I think I would really enjoy eating
-handfull after handfull of these delightful beans.
+handful after handful of these delightful beans.
 
 **8 out of 10 beans**
 
