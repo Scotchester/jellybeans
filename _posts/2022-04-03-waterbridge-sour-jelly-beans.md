@@ -3,7 +3,7 @@ layout: post
 title: "Waterbridge Gourmet Jelly Beans: Sour"
 brand: Waterbridge
 variety: Sour
-date: 2021-03-08
+date: 2022-04-03
 permalink: waterbridge-sour-jelly-beans
 image: waterbridge-sour-jelly-beans.jpg
 image-credit:
