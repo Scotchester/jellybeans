@@ -92,7 +92,7 @@ The insides are also pleasantly smooth, like the Just Borns.
         <li>:strawberry: :milk_glass: Strawberry Smoothie</li>
         <li>:wavy_dash: Licorice</li>
         <li>:fire: Cinnamon</li>
-        <li>:candy: :popcorn: Butter Popcorn</li>
+        <li>:candy: :popcorn: Caramel Popcorn</li>
         <li>:tangerine: Tangerine</li>
         <li>:peach: Peachy Pie</li>
         <li>:large_blue_circle: Blueberry</li>
