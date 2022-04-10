@@ -3,7 +3,7 @@ layout: post
 title: "Trader Joe’s Sour Jelly Beans"
 brand: Trader Joe’s
 variety: Sour
-date: 2019-04-14
+date: 2022-04-10
 permalink: trader-joes-sour-jelly-beans
 image: trader-joes-sour-jelly-beans.jpg
 image-credit: TraderJoes.com
