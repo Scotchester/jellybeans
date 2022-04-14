@@ -130,9 +130,9 @@ is released when your teeth are crushing [five] beans at the same time.
 ## Conclusion
 
 The Wild Berry variety of Jolly Rancher Jelly Beans
-manages to eke out 2 more total beans than the Original Flavors.
+manages to eke out two more total beans than the Original Flavors.
 While not numerically one of the highest scoring beans on this site,
-they're definitely in the 2nd tier, and that big Jolly Rancher flavor
+they're definitely in the second tier, and that big Jolly Rancher flavor
 will keep at least one variety of them on my shopping list every year.
 
 Category         | Score
