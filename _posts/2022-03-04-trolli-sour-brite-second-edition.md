@@ -4,8 +4,8 @@ title: "Trolli: Sour Brite Jelly Beans, Second Edition"
 brand: Trolli
 variety: Sour Brite Jelly Beans, Second Edition
 date: 2022-03-04
-permalink: trolli-sour-brite-jelly-beans-2
-image: trolli-sour-brite-jelly-beans-2.jpg
+permalink: trolli-sour-brite-second-edition
+image: trolli-sour-brite-second-edition.jpg
 image-credit: AllCityCandy.com
 image-layout: float
 ---
