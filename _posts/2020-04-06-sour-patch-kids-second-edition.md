@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Sour Patch Kids Jelly Beans"
-brand:
-variety:
+brand: Sour Patch Kids
+variety: Second Edition
 date: 2020-04-06
 permalink: sour-patch-kids-jelly-beans
 image: sour-patch-kids-jelly-beans.jpg
@@ -42,7 +42,7 @@ typically on one of the flat sides.
 
 ## Chewability
 
-These Sour Patch Kids Jelly Beans haver very good, but not perfect, chewability.
+These Sour Patch Kids Jelly Beans have very good, but not perfect, chewability.
 Whereas the Sour Patch Jelly Beans had
 [shells that were too hard](/sour-patch-jelly-beans#chewability),
 I wish the shell on these was a little bit _more_ substantial.
