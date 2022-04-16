@@ -24,7 +24,7 @@ Penny's son Fred.
 Take it away, Penny!
 
 
---
+---
 
 Hi! I’m Penny. I’m the designated Spice Bean reviewer for this site.
 Since it’s much more of a “niche” bean than the fruited kind,
@@ -42,7 +42,7 @@ because I’m not a fan of habanero pepper.
 
 But that was last year. We’re on to this year’s beans, and this year’s gimmick:
 
-<span style="font-size: 3em;">JUMBOSITY!</em>
+<span style="font-size: 6em; word-break: break-all;">JUMBOSITY!</span>
 
 This year we’re taking a taste of the biggest damn beans I’ve ever seen.
 Why are they so damn big? Well, let’s go to the source:
@@ -79,12 +79,12 @@ Which is a pity, because we certainly were fooled by them.
 Let’s get to the tests, shall we?
 
 
-## Size and shape
-
 <figure class="packaging-image packaging-image-float">
     <img src="static/img/howe-spiced-size.jpg"
          alt="One of each flavor of Howe Spiced Jumbo Jelly Beans arranged in a line with a United States penny coin for size comparison">
 </figure>
+
+## Size and shape
 
 **Size:** Big. So big. Almost uncomfortably big.
 These are very large. Perhaps gumdrop size.
@@ -96,7 +96,7 @@ They’re too small to be satisfied with just one,
 and too big to eat a handful of.
 It's a gimmick that didn’t really pay off.
 
-<figure class="packaging-image packaging-image-float">
+<figure class="packaging-image packaging-image-float" style="clear: right;">
     <img src="static/img/howe-spiced-shape.jpg"
          alt="Two examples (one yellow, one white) of malformed Howe Spiced Jumbo Jelly Beans with pointy protrusions">
 </figure>
@@ -145,7 +145,7 @@ Apparently the “optimal spice level” in Grove City is
 significantly less than in less-homogenous areas of the country.
 The reason I give it a 4 is because for some of the beans,
 I find this to be a good thing.
-So, the score of each will be the flavor plus that 4.
+So, the score of each will be the Flavor plus that 4.
 
 So, here’s the list, in the order Howe’s has them on their website.
 
