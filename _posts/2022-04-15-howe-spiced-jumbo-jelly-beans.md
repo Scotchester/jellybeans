@@ -7,7 +7,7 @@ date: 2022-04-15
 permalink: howe-spiced-jumbo-jelly-beans
 image: howe-spiced-jumbo-jelly-beans.jpg
 image-credit: Walmart.com
-image-layout: float
+image-layout: full
 ---
 
 
@@ -233,7 +233,7 @@ _(Fred: I can no longer feel my tongue.)_
 
 **Score: 7**
 
-### Anise (black):
+### Anise (black)
 
 _(Fred: What does it say when the one I like least is the one I like best?)_[^3]
 
