@@ -50,7 +50,7 @@ Here again, the Starburst similarities continue:
 we have a very smooth shell of adequate thickness
 and smooth (but not perfectly so) insides.
 The shell could hold together into better chunks,
-but this is another strong catgegory.
+but this is another strong category.
 
 **4 out of 5 beans**
 
