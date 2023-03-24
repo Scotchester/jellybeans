@@ -290,7 +290,7 @@ _Total_          | **26**/35 beans
 
 ---
 
-[^1]: Made in Grove City, Pennsylvania, about an hour’s drive north of Pittsburgh. I know, because my daughter Zoë’s boyfriend went to Grove City College, and sometimes when I’d drive down to get her she’d meet me at his apartment, and it is the most cisgender, heteronormative, white enclave I have ever encountered. It was so white that AJ ended up leaving the school and enrolling in nearby Slippery Rock University, where the official school cheer is: _Our whiskey is rye! Our beer is bock! Stand and cheer for Slippery Ro-whoahhhhh yikes! <crashing noises>_ (Okay, it isn’t, but it should be.)
+[^1]: Made in Grove City, Pennsylvania, about an hour’s drive north of Pittsburgh. I know, because my daughter Zoë’s boyfriend went to Grove City College, and sometimes when I’d drive down to get her she’d meet me at his apartment, and it is the most cisgender, heteronormative, white enclave I have ever encountered. It was so white that AJ ended up leaving the school and enrolling in nearby Slippery Rock University, where the official school cheer is: _Our whiskey is rye! Our beer is bock! Stand and cheer for Slippery Ro-whoahhhhh yikes! [crashing noises]_ (Okay, it isn’t, but it should be.)
 
 [^2]: Thttps://media.giphy.com/media/Rv7YC2ukeraIE/giphy.gif
 
