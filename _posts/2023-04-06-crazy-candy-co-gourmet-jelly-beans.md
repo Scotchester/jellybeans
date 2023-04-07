@@ -31,7 +31,7 @@ gourmet flavor selections?
 The physical characteristics are identical, of course,
 so refer back to the previous reviews (linked above)
 if you want details on those.
-The officialc category ratings match those prior ones, as well.
+The official category ratings match those prior ones, as well.
 
 <img src="/static/img/crazy-candy-co_sorted.jpg"
      alt="Crazy Candy Co. Gourmet Jelly Beans, sorted by flavor">
