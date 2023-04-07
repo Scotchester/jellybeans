@@ -33,7 +33,7 @@ Still, they look largely bean-like, if you squint.
 ## Chewability
 
 The chewability of these beans is decent.
-The insights are about right,
+The insides are about right,
 but they err a bit on the side of too soft in the shell.
 
 **3 out of 5 beans**
