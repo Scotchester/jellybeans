@@ -3,7 +3,7 @@ layout: post
 title: "Jell-O Jelly Beans"
 brand: Jell-O
 variety:
-date: 2023-04-06
+date: 2023-04-07
 permalink: jell-o-jelly-beans
 image: jell-o-jelly-beans.jpg
 image-credit: DollarTree.com
