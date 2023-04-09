@@ -56,6 +56,7 @@ Here are some of my top recommendations:
 - [Nerds](/nerds-bumpy-jelly-beans),
   [Starburst](/starburst-jelly-beans), and
   [Just Born](/just-born-jelly-beans) (27 out of 30 beans)
+
 I still hope to someday deliver the much-requested, long-promised ability
 to sort the reviews here by their scores, but that should do for now.
 
