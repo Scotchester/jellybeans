@@ -16,7 +16,7 @@ Multiple people have asked me about whether I plan to review these beans or not.
 I've said in the past that I will not review beans that are meant to taste bad –
 e.g., Jelly Belly's BeanBoozled line or its Harry Potter tie-in,
 Bertie Bott's Every Flavour Beans –
-but like the [Brach's Taco Truck](/brachs-taco-truck) experiment,
+but like the [Brach's Late Night Taco Truck](/brachs-late-night-taco-truck-jelly-beans) experiment,
 I don't believe these are meant to be just a way to prank people.
 
 Frankford is a serious candy maker that is behind the established veteran
@@ -86,16 +86,16 @@ and the insides could be smoother, but it's not horrible.
     </ul>
 </div>
 
-And here is where it becomes clear that the Internet is correct.
+And here is where it becomes clear that the Internet is correct:
 
-They're terrible.
+_They're terrible._
 
 It doesn't say it explicitly, but I think one has to assume that the intent
 is for these to be taken as **dill** pickle jelly beans, specifically –
 I think that is sort of the default pickle most people think of
 when the only word used is "pickle" – and there is indeed a hint of dill there.
 And I don't mind that they are sweet;
-unlike some of the flavors in the aforementioned Brach's Taco Truck fiasco,
+unlike some of the flavors in the aforementioned Brach's taco truck fiasco,
 many pickles do have a sweet note.
 But what is the one defining feature of every pickle you've eaten in your life?
 The answer is **vinegar**, and there is none of that to be found here at all.
