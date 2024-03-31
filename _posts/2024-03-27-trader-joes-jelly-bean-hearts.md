@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trader Joe’s Jelly Bean Hearts"
-brand: Trader Joe's
+brand: Trader Joe’s
 variety: Jelly Bean Hearts
 date: 2024-03-27
 permalink: trader-joes-jelly-bean-hearts
