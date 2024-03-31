@@ -82,7 +82,7 @@ so ultimately this is a tough category for Forrelli.
 <div class="inset">
     <h3>Flavors</h3>
     <ul class="emoji-list">
-        <li>:stuck_out_tongue_closed_eyes: Strawberry</li>
+        <li>:stuck_out_tongue_closed_eyes: Raspberry</li>
         <li>:cherries: Cherry</li>
         <li>:palm_tree: Coconut</li>
         <li>:lemon: Lemon</li>
