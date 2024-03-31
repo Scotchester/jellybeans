@@ -88,7 +88,7 @@ so ultimately this is a tough category for Forrelli.
         <li>:lemon: Lemon</li>
         <li>:green_heart: Lime</li>
         <li>:grapes: Grape</li>
-        <li>:wavy-dash: Licorice</li>
+        <li>:wavy_dash: Licorice</li>
         <li>:orange: Orange</li>
     </ul>
 </div>
