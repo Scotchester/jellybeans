@@ -58,7 +58,7 @@ and the insides seem slightly grittier than last year's
 <div class="inset">
     <h3>Flavors</h3>
     <ul class="emoji-list">
-        <li>:blueberry: :maple_leaf: :pancakes: Blueberry Maple Pancake</li>
+        <li>:large_blue_circle: :maple_leaf: :pancakes: Blueberry Maple Pancake</li>
         <li>:strawberry: :milk_glass: Berry Smoothie</li>
         <li>:candy: :coffee: Caramel Cold Brew</li>
         <li>:orange: :champagne: Mimosa</li>
