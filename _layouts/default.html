@@ -5,26 +5,26 @@
         <meta name="viewport" content="width=device-width">
 
         <title>
-        {% if page.title == null %}
-            {{ site.title }}
-        {% else %}
-            {{ page.title }} – {{ site.title }}
-        {% endif %}
+        {%- if page.title == null -%}
+            {{- site.title -}}
+        {%- else -%}
+            {{- page.title }} – {{ site.title -}}
+        {%- endif -%}
         </title>
 
-    {% if page.description %}
-        <meta name="description" content="{{ page.description }}">
-    {% elsif page.layout == "post" %}
-        <meta name="description" conten="A comprehensive review of {{ page.title }}.">
-    {% else %}
-        <meta name="description" content="{{ site.description }}">
-    {% endif %}
+        {% if page.description -%}
+            <meta name="description" content="{{ page.description }}">
+        {%- elsif page.layout == "post" -%}
+            <meta name="description" conten="A comprehensive review of {{ page.title }}.">
+        {%- else -%}
+            <meta name="description" content="{{ site.description }}">
+        {%- endif %}
 
-    {% if page.image %}
-        <meta property="og:image" content="{{ site.url }}/static/img/{{ page.image }}">
-    {% else %}
-        <meta property="og:image" content="{{ site.url }}/static/img/hug.jpg">
-    {% endif %}
+        {% if page.image -%}
+            <meta property="og:image" content="{{ site.url }}/static/img/{{ page.image }}">
+        {%- else -%}
+            <meta property="og:image" content="{{ site.url }}/static/img/hug.jpg">
+        {%- endif %}
 
         <link rel="stylesheet" href="{{ site.url }}/static/css/main.min.css">
 
@@ -35,9 +35,9 @@
         <div class="container">
             <header class="site-header" role="banner">
                 <div class="wrap">
-                {% if site.logourl != null %}
-                    <img class="logo" src="{{ site.logourl }}" alt="{{ site.logoalt }}">
-                {% endif %}
+                    {% if site.logourl != null -%}
+                        <img class="logo" src="{{ site.logourl }}" alt="{{ site.logoalt }}">
+                    {% endif -%}
                     <div class="site-title"><a class="title-link" href="{{ site.url }}/">{{ site.title }}</a></div>
                 </div>
             </header>
@@ -57,7 +57,8 @@
                         © {{ site.time | date: '%Y' }} <a href="{{ site.author.url }}">{{ site.author.name }}</a>.
                         Licensed under a
                         <a href="http://creativecommons.org/licenses/by-sa/4.0/">
-                            Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+                            Creative Commons Attribution-ShareAlike 4.0 International License
+                        </a>.
                     </p>
                     <p>
                         Hosted on <a href="https://pages.github.com/">GitHub Pages</a>.
