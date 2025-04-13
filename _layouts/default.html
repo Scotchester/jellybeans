@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+
         <title>
         {% if page.title == null %}
             {{ site.title }}
@@ -10,12 +11,20 @@
             {{ page.title }} – {{ site.title }}
         {% endif %}
         </title>
+
     {% if page.description %}
         <meta name="description" content="{{ page.description }}">
+    {% elsif page.layout == "post" %}
+        <meta name="description" conten="A comprehensive review of {{ page.title }}.">
     {% else %}
         <meta name="description" content="{{ site.description }}">
     {% endif %}
-        <meta name="viewport" content="width=device-width">
+
+    {% if page.image %}
+        <meta property="og:image" content="{{ site.url }}/static/img/{{ page.image }}">
+    {% else %}
+        <meta property="og:image" content="{{ site.url }}/static/img/hug.jpg">
+    {% endif %}
 
         <link rel="stylesheet" href="{{ site.url }}/static/css/main.min.css">
 
