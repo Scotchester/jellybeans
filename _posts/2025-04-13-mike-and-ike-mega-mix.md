@@ -69,7 +69,7 @@ It becomes very clear when you consider the texture of the beans.
 (It's also the same as the Just Born branded beans.)
 
 I am personally a big fan of the Just Born / Mike and Ike chewy candy texture.
-The insides, in particualr, have a perfect consistency.
+The insides, in particular, have a perfect consistency.
 However, I have to dock this score slightly for not having as strong a shell
 as I believe that a proper _jelly bean_ should have.
 
