@@ -33,12 +33,13 @@ As the physical characteristics are the same as previous iterations
 manufactured by this same company, refer back to those reviews for details
 on those categories, but we can still talk flavors.
 
-I was a little dissappointed to find that this pacakge of "36 huge flavors"
+I was a little dissappointed to find that this group of "36 huge flavors"
 has major overlap with the 36 flavors included in the Waterbridge assortment.
 Only four new flavors have been swapped in here.
 
 First, let's look at what got cut.
-These four flavors that were in the Waterbridge package are not in this pacakge:
+These four flavors that were in the Waterbridge package are not in
+the Jelly Bean Factory package:
 
 - :coffee: Café Latte
 - :fire: Cinnamon
@@ -53,7 +54,7 @@ If I had my druthers, I'd rather have given Coconut and Butterscotch the boot.
 The four new flavors we have traded in are:
 
 - :deciduous_tree: Forest Fruits
-- :cherry: :white_flower: :cup_with_straw: Cherry Blossom Soda
+- :cherries: :white_flower: :cup_with_straw: Cherry Blossom Soda
 - :salt: :candy: Salted Caramel
 - :peach: :cup_with_straw: Peach Bubble Tea
 
@@ -72,11 +73,11 @@ Unfortunately, I can't say with certainty that
 I actually got a Peach Bubble Tea in the 339 grams of beans I acquired.
 That's one of the downsides of flavor assortments this large –
 if the randomization process isn't really good,
-you may just miss out on a number of flavors in a given package.
+you may just miss out on a number of flavors in a given bag.
 
 Another factor is that inevitably some of the coloring of the beans will
 look the same when you have so many flavors.
-Cherry Blossom Soda is depicted on the pacakging as white with red flecks,
+Cherry Blossom Soda is depicted on the packaging as white with red flecks,
 while Peach Bubble Tea is depicted as white with orange flecks,
 and it may be that I can't actually tell them apart,
 both visually and gustatorily.
