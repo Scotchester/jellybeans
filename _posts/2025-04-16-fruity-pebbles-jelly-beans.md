@@ -12,7 +12,7 @@ image-layout: float
 
 
 After reviewing [Froot Loops Jelly Beans](/froot-loops-jelly-beans),
-here comes another cereal-inspired bag: Fruit Pebbles Jelly Beans!
+here comes another cereal-inspired bag: Fruity Pebbles Jelly Beans!
 (These apparently came out last year, but I missed them.)
 They're not made by the same company that made the Froot Loops Jelly Beans,
 but this company, [Flix Candy](https://www.flixcandy.com/)
