@@ -21,7 +21,7 @@ These include:
 - [Trader Joe's Gourmet Jelly Beans](/trader-joes-gourmet-jelly-beans)
 - [Trader Joe's Sour Jelly Beans](/trader-joes-sour-jelly-beans)
 - [Crazy Candy Co. Gourmet Jelly Beans](crazy-candy-co-gourmet-jelly-beans)
-- [Waterbridge Gourmey Jelly Beans](/waterbridge-gourmet-jelly-beans)
+- [Waterbridge Gourmet Jelly Beans](/waterbridge-gourmet-jelly-beans)
 - [Waterbridge Sour Jelly Beans](/waterbridge-sour-jelly-beans)
 
 Now, I have finally had the opportunity to purchase the real deal:
@@ -33,7 +33,7 @@ As the physical characteristics are the same as previous iterations
 manufactured by this same company, refer back to those reviews for details
 on those categories, but we can still talk flavors.
 
-I was a little dissappointed to find that this group of "36 huge flavors"
+I was a little disappointed to find that this group of "36 huge flavors"
 has major overlap with the 36 flavors included in the Waterbridge assortment.
 Only four new flavors have been swapped in here.
 
@@ -62,7 +62,7 @@ Cherry Blossom Soda is my favorite of the bunch.
 It deftly combines cherry fruit and floral aspects,
 with a hint of vanilla that I think points to the soda aspect.
 
-It may be a European turn of phrase, bu I gather that "forest fruits"
+It may be a European turn of phrase, but I gather that "forest fruits"
 is generally used to refer to berries of all kinds,
 and I would say that the flavor captured here does taste like
 what we'd normally call "mixed berry" here in the States.
