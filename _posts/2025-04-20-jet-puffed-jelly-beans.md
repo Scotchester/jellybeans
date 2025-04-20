@@ -31,7 +31,7 @@ Like the other Flix Candy-produced sets
 ([Fruity Pebbles](/fruity-pebbles-jelly-beans) and
 [Creamsicle](/creamsicle-jelly-beans)),
 the size and shape of these beans (and the consistency of both) is perfect.
-Kudos to Flix Candy for clearly caring more about this than most manufacturers,
+Kudos to Flix for clearly caring more about this than most manufacturers,
 rather than just phoning it in because it's not their own brand name at stake.
 
 **5 out of 5 beans**
@@ -41,7 +41,7 @@ rather than just phoning it in because it's not their own brand name at stake.
 
 Once you get past the looks and get them in your mouth,
 these jelly beans differ significantly from the other Flix Candy beans.
-Chewability is singificantly improved.
+Chewability is significantly improved.
 They are much easier to chew than the Pebbles and Creamsicle beans,
 while still having a decent amount of pushback.
 There is also very little sticking to the teeth.
@@ -101,7 +101,7 @@ Well, I'm sorry to end the year on a fairly banal set of beans,
 but the schedule can't always work out perfectly, can it?
 If you like marshmallow, these are worth checking out,
 but let's hope for some more interesting new releases next year
-(Spoiler alert: I'm holding over two sets with longer shelf life
+(Spoiler alert: I'm holding over two sets with a longer shelf life
 that I'm pretty excited about.)
 See you then!
 
