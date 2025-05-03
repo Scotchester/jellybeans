@@ -19,7 +19,7 @@ Jet-Puffed Jelly Beans.
 Yes, that would be the brand most famously known for marshmallows,
 and these do say "marshmallow flavored" right there on the package.
 
-We've see marshmallow flavors in a number of collections reviewed previously,
+We've seen marshmallow flavors in a number of collections reviewed previously,
 and even reviewed another marshmallow-focused set
 ([Peeps Jelly Beans](/peeps-jelly-beans)).
 How will these turn out? Let's see!
