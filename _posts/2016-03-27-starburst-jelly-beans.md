@@ -55,7 +55,7 @@ and there is no attempt at a dimple, which knocks the rating down slightly.
 
 These beans will be the second consecutive recipient of
 a perfect chewability score, despite having a significantly different
-chewing chewing experience than
+chewing experience than
 [the previous review](/sweetarts-jelly-beans#chewability).
 
 The shell of the Starburst Jelly Beans is more substantial than
