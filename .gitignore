@@ -9,3 +9,6 @@ _site/
 .sass-cache/
 .jekyll-metadata
 Gemfile.lock
+
+# I can't believe we're still dealing with this in 2026
+.DS_Store
