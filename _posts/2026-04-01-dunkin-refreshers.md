@@ -76,7 +76,7 @@ but overall, it's a fine texture.
 I think it speaks well of these jelly beans that I quickly reach for more
 after each one or two I finish; they clearly have a baseline level of quality
 that makes them enjoyable to eat.
-That said, when I think about the individual flavors, I'm hot hugely impressed.
+That said, when I think about the individual flavors, I'm not hugely impressed.
 
 Lemonade is probably the best of the four; there is a nuance to the flavor
 that really captures the ideal balance between the tartness of a lemon and
