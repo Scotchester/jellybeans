@@ -15,7 +15,7 @@ Happy Easter!
 
 It's finally time to address the elephant in the grocery store this season,
 the KFC-inspired Colonel’s Favorite Jelly Beans.
-Not since [Brach’s Late Night Taco Truck Jelly Beans](/brachs-taco-truck)
+Not since [Brach’s Late Night Taco Truck Jelly Beans](/brachs-late-night-taco-truck-jelly-beans)
 in 2022 have we seen such a buzzed-about collection,
 and one based around multiple savory flavors.
 (The [Claussen Pickle Flavor Jelly Beans](/claussen-pickle-flavor-jelly-beans)
