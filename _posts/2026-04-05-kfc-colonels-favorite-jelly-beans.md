@@ -88,7 +88,7 @@ smooth the insides are, but it's not offensive.
     <h3>Flavors</h3>
     <ul class="emoji-list">
         <li>:corn: Sweet Corn</li>
-        <li>:hot_beverage: Gravy</li>
+        <li>:coffee: Gravy</li>
         <li>:poultry_leg: Fried Chicken</li>
     </ul>
 </div>
