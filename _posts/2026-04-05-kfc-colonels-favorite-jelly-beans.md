@@ -6,7 +6,7 @@ variety: Colonel’s Favorite Jelly Beans
 date: 2026-04-05
 permalink: kfc-colonels-favorite
 image: kfc-colonels-favorite.jpg
-image-credit: CandyFunhouse.com
+image-credit: Walmart.com
 image-layout: float
 ---
 
