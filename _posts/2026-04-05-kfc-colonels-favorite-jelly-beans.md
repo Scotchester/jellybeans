@@ -112,7 +112,7 @@ I guessed that the bean with solid light orange coloring
 made more sense for Fried Chicken
 and that pink with red speckles was probably Gravy.
 After chewing three of the orange ones individually,
-I was not dissuaded from the dissuaded that it was Fried Chicken.
+I was not dissuaded from the notion that it was Fried Chicken.
 Then I tried the pink speckled bean and could not identify a clear flavor in it.
 
 Revisiting the packaging, I noted the illustrations of the beans themselves,
